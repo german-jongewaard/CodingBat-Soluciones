@@ -102,7 +102,7 @@ public class String_2 {
                     temp = a;
             }
             return (end.equals(temp));        
-        
+    }    
         
         
     
