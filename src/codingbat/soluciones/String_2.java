@@ -100,6 +100,8 @@ public class String_2 {
             {
                     end = b.substring(bLen - aLen);
                     temp = a;
+            }
+            return (end.equals(temp));        
         
         
         
