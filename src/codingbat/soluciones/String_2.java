@@ -109,6 +109,7 @@ public class String_2 {
    // but "x.xyz" does not.     
    public boolean xyzThere(String str)
    { 
+            int len = str.length() - 2;
   
     
     
