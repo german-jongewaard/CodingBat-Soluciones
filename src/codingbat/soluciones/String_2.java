@@ -83,7 +83,7 @@ public class String_2 {
     // very end of the other string, ignoring upper/lower case differences 
     // (in other words, the computation should not be "case sensitive"). 
     // Note: str.toLowerCase() returns the lowercase version of a string. 
-     
+    public boolean endOther(String a, String b) 
         
         
         
