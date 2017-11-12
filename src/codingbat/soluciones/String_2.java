@@ -86,6 +86,7 @@ public class String_2 {
     public boolean endOther(String a, String b) 
     {
             int aLen = a.length();
+            int bLen = b.length();
         
         
         
