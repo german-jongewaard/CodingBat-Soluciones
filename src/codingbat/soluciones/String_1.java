@@ -268,6 +268,11 @@ public class String_1 {
     // The string may be any length. If there are fewer than 2 chars, use whatever is there.
     public String extraFront(String str)
 {
+    String temp;
+	if(str.length() >= 3)
+		temp = str.substring(0, 2);
+    else
+}
     
     
     
