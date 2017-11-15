@@ -260,6 +260,7 @@ public class String_1 {
         int lenB = b.length();
             if(lenA >= lenB)
                 return (a.substring(lenA-lenB) + b);
+            else
     }
     
     
