@@ -256,7 +256,7 @@ public class String_1 {
     // same length as the shorter string. So "Hello" and "Hi" yield "loHi". The strings may be any length.
     public String minCat(String a, String b)
     {
-        
+        int lenA = a.length();
     }
     
     
