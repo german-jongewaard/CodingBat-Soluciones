@@ -76,6 +76,8 @@ public class String_2 {
                     else        
                             i++;
             }
+            return times;
+    }
         
         
         
