@@ -70,7 +70,8 @@ public class String_2 {
             {
                     if(str.charAt(i) == 'c' && str.charAt(i+1) == 'o' && str.charAt(i+3) == 'e')
                     {
-                            times++;            
+                            times++; 
+                            i += 4;
     
         
         
