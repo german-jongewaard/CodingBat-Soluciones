@@ -74,7 +74,8 @@ public class String_2 {
                             i += 4;
                     }
                     else        
-    
+                            i++;
+            }
         
         
         
