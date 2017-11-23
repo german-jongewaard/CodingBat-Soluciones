@@ -72,6 +72,8 @@ public class String_2 {
                     {
                             times++; 
                             i += 4;
+                    }
+                    else        
     
         
         
