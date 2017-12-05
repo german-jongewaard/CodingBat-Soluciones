@@ -99,6 +99,7 @@ public class String_2 {
             else        
             {
                     end = b.substring(bLen - aLen);
+                    temp = a;
         
         
         
