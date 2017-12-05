@@ -94,6 +94,7 @@ public class String_2 {
             if(aLen >= bLen)
             {
                     end = a.substring(aLen - bLen);
+                    temp = b;
         
         
         
