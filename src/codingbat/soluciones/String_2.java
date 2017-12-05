@@ -91,7 +91,9 @@ public class String_2 {
             String temp;
             a = a.toLowerCase();
             b = b.toLowerCase();
-        
+            if(aLen >= bLen)
+            {
+                    end = a.substring(aLen - bLen);
         
         
         
