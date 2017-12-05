@@ -95,7 +95,8 @@ public class String_2 {
             {
                     end = a.substring(aLen - bLen);
                     temp = b;
-        
+            }
+            else        
         
         
         
