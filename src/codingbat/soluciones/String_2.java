@@ -89,6 +89,7 @@ public class String_2 {
             int bLen = b.length();
             String end;
             String temp;
+            a = a.toLowerCase();
         
         
         
