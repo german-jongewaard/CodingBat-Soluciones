@@ -90,6 +90,7 @@ public class String_2 {
             String end;
             String temp;
             a = a.toLowerCase();
+            b = b.toLowerCase();
         
         
         
