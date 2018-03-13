@@ -64,7 +64,26 @@ public class String_1 {
     // The strings will be at least length 1.
     public String nonStart(String a, String b)
     { return (a.substring(1) + b.substring(1)); }
+    
+    
+    // Given a string, return a "rotated left 2" version where the first 2 chars are moved to the end.
+    // The string length will be at least 2.
+    public String left2(String str)
+    { return (str.substring(2) + str.substring(0, 2));}
+    
+    
+    // Given a string, return a "rotated right 2" version where the last 2 chars are moved to the start.
+    // The string length will be at least 2.
+    public String right2(String str)
+    {
+            int len = str.length()-2;
+            return (str.substring(len) + str.substring(0, len));
+    }
+    
 
+    
+    
+    
 }
 
 
