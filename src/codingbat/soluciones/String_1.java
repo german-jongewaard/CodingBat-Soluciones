@@ -89,7 +89,15 @@ public class String_1 {
             return str.substring(str.length()-1);
     }
 
-    
+    // Given a string, return a version without both the first and last char of the string.
+    // The string may be any length, including 0. 
+    public String withouEnd2(String str)
+    {
+            int len = str.length();
+            if(len >= 3)
+                    return str.substring(1, len-1);
+            return "";
+    }
     
     
 }
