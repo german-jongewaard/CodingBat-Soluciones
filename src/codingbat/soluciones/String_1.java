@@ -152,6 +152,13 @@ public class String_1 {
             else if(len >= 4) {
             
                     if(str.substring(0, 3).equals("bad"))
+                                return true;
+                    return str.substring(1, 4).equals("bad");
+                    }
+        	else
+                return false;
+    }
+    
     
 }
 
