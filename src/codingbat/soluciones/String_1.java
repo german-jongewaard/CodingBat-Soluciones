@@ -167,8 +167,12 @@ public class String_1 {
         int len = str.length();
 	
         if(len >= 2)
-            return str.substring(0, 2);
-    
+                return str.substring(0, 2);
+        else if(len == 1)
+		return (str.charAt(0)+"@");
+	else
+		return "@@";
+    }
     
 }
 
