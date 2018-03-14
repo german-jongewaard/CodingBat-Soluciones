@@ -27,14 +27,16 @@ public class String_1 {
 
     // Given an "out" string length 4, such as "<<>>", and a word, return a new string
     // where the word is in the middle of the out string, e.g. "<<word>>".
-    // Note: use str.substring(i, j) to extract the String starting at index i and going up to but not including index j.
+    // Note: use str.substring(i, j) to extract the String starting at index i 
+    //and going up to but not including index j.
     public String makeOutWord(String out, String word)
     { return (out.substring(0, 2) + word + out.substring(2, 4)); }
 
 
     // Given a string, return the string made of its first two chars, so the String "Hello" yields "He".
     // If the string is shorter than length 2, return whatever there is, so "X" yields "X",
-    // and the empty string "" yields the empty string "".Note that str.length() returns the length of a string.
+    // and the empty string "" yields the empty string "".Note that str.length() returns 
+    //the length of a string.
     public String firstTwo(String str)
     {
             if(str.length() >= 3)
@@ -50,8 +52,10 @@ public class String_1 {
 
 
 
-    // Given 2 strings, a and b, return a string of the form short+long+short, with the shorter string on the outside
-    // and the longer string on the inside. The strings will not be the same length, but they may be empty (length 0).
+    // Given 2 strings, a and b, return a string of the form short+long+short, 
+    //with the shorter string on the outside
+    // and the longer string on the inside. The strings will not be the same length, 
+    //but they may be empty (length 0).
     public String comboString(String a, String b)
     {
             if(a.length() >= b.length())
@@ -107,6 +111,16 @@ public class String_1 {
             int half = str.length()/2-1;
             return str.substring(half, half+2);
     }
+    
+    
+    // Given a string and an int n, return a string made of the first and 
+    //last n chars from the string.
+    // The string length will be at least n.
+    public String nTwice(String str, int n)
+    { return (str.substring(0, n) + str.substring(str.length()-n)); }
+    
+    
+    
     
     
 }
