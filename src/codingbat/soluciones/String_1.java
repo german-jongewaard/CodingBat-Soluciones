@@ -148,7 +148,8 @@ public class String_1 {
     {
         int len = str.length();
         if(len == 3 && str.equals("bad"))
-    }
+                return true;
+            else if(len >= 4)
     
 }
 
