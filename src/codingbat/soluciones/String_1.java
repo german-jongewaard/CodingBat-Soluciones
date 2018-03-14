@@ -146,6 +146,9 @@ public class String_1 {
     //to compare 2 strings.
     public boolean hasBad(String str)
     {
+        int len = str.length();
+        if(len == 3 && str.equals("bad"))
+    }
     
 }
 
