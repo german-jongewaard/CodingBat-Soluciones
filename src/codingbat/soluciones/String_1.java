@@ -198,8 +198,9 @@ public class String_1 {
             {
                 if(a.charAt(lenA-1) == b.charAt(0))
                     return (a + b.substring(1));
-                else
-            }
+                else return (a + b);
+	}
+	return (a + b);
     }
     
     
