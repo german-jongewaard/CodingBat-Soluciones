@@ -196,7 +196,7 @@ public class String_1 {
         int lenB = b.length();        
         if(lenA >= 1 && lenB >= 1)
             {
-
+                if(a.charAt(lenA-1) == b.charAt(0))    
             }
     }
     
