@@ -192,7 +192,7 @@ public class String_1 {
     //then omit one of the chars, so "abc" and "cat" yields "abcat". 
     public String conCat(String a, String b)
     {
-        
+        int lenA = a.length();
     }
     
     
