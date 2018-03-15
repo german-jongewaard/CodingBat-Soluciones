@@ -193,6 +193,7 @@ public class String_1 {
     public String conCat(String a, String b)
     {
         int lenA = a.length();
+        int lenB = b.length();
     }
     
     
