@@ -229,6 +229,15 @@ public class String_1 {
 		else
 			return "";
         } 
+        else if(len == 3)
+	{
+		if(str.substring(0, 3).equals("red"))
+			return "red";
+		else
+			return "";
+	}
+	else
+		return "";
     }
     
     
