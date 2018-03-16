@@ -219,7 +219,16 @@ public class String_1 {
     // otherwise return the empty string.
     public String seeColor(String str)
     {
-        
+        int len = str.length();
+	if(len >= 4)
+	{
+		if(str.substring(0, 4).equals("blue"))
+			return "blue";
+		else if(str.substring(0, 3).equals("red"))
+			return "red";
+		else
+			return "";
+        } 
     }
     
     
