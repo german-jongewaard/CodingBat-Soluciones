@@ -286,6 +286,7 @@ public class String_1 {
         {
                 if(str.substring(0,2).equals(str.substring(len-2, len)))
                     return str.substring(2);
+                else
         }
     
     
