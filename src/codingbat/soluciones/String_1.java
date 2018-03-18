@@ -303,6 +303,7 @@ public class String_1 {
             StringBuilder stbuild = new StringBuilder(len);
             if(str.charAt(0) == 'a')
                 stbuild.append('a');
+            if(str.charAt(1) == 'b')
         }
     
 }
