@@ -298,6 +298,7 @@ public class String_1 {
     public String deFront(String str)
     {    
         int len = str.length();
+        if(len >= 2)
     
 }
 
