@@ -292,6 +292,8 @@ public class String_1 {
         else
             return str;
     }
+    
+    // Given a string, return a version without the first 2 chars. Except keep the first char
          
     
     
