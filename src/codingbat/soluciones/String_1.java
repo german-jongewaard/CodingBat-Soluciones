@@ -301,6 +301,7 @@ public class String_1 {
         if(len >= 2)
         {
             StringBuilder stbuild = new StringBuilder(len);
+            if(str.charAt(0) == 'a')
         }
     
 }
