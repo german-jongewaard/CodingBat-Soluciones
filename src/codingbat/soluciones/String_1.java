@@ -304,6 +304,7 @@ public class String_1 {
             if(str.charAt(0) == 'a')
                 stbuild.append('a');
             if(str.charAt(1) == 'b')
+                stbuild.append('b');
         }
     
 }
