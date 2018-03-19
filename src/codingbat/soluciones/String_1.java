@@ -172,8 +172,7 @@ public class String_1 {
 		return (str.charAt(0)+"@");
 	else
 		return "@@";
-    }
-    
+    }    
     
     // Given 2 strings, a and b, return a new string made of the first char of a and
     // the last char of b, so "yo" and "java" yields "ya". If either string is length 0
