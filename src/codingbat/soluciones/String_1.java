@@ -325,6 +325,14 @@ public class String_1 {
 		if(word.substring(1).equals(temp))
 			return (str.charAt(0)+temp);
                 else
+                    return "";
+            }
+            else
+                    return "";
+}
+                    
+                    
+                    
 }
 
 
