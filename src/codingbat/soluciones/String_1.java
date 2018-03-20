@@ -310,6 +310,8 @@ public class String_1 {
 		return "";
     }
     
+    // Given a string and a second "word" string, we'll say that the word matches the string if it appears at
+    
 }
 
 
