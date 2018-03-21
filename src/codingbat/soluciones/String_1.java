@@ -329,7 +329,9 @@ public class String_1 {
             }
             else
                     return "";
-}
+    }
+    
+    // Given a string, if the first or last chars are 'x', return the string without those 'x' chars,
                     
                     
                     
