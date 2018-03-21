@@ -341,9 +341,12 @@ public class String_1 {
             char ch = str.charAt(0);
             StringBuilder stbuild = new StringBuilder(len);
             if(ch != 'x')
-                     stbuild.append(ch);
+                    stbuild.append(ch);
             stbuild.append(str.substring(1, len-1));
             ch = str.charAt(len-1);
+            if(ch != 'x')
+                    stbuild.append(ch);
+            return stbuild.toString();
         }
         
         
