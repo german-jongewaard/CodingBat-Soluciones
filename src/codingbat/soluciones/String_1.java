@@ -348,6 +348,11 @@ public class String_1 {
                     stbuild.append(ch);
             return stbuild.toString();
         }
+	else if(len == 1 && str.charAt(0) == 'x')
+		return "";
+	else
+		return str;
+    }
         
         
         
