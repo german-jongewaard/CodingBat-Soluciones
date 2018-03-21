@@ -336,7 +336,8 @@ public class String_1 {
     public String withoutX(String str)
     {
         int len = str.length();
-        
+        if(len >= 2)
+        {
         
         
         
