@@ -342,6 +342,8 @@ public class String_1 {
             StringBuilder stbuild = new StringBuilder(len);
             if(ch != 'x')
                      stbuild.append(ch);
+            stbuild.append(str.substring(1, len-1));
+            ch = str.charAt(len-1);
         }
         
         
