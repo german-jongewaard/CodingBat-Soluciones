@@ -354,7 +354,7 @@ public class String_1 {
 		return str;
     }
         
-        
+    // Given a string, if one or both of the first 2 chars is 'x', return the string without those 'x' chars
         
         
                     
