@@ -358,6 +358,16 @@ public class String_1 {
     //string without those 'x' chars
     // and otherwise return the string unchanged. This is a little harder than it looks.
     public String withoutX2(String str)
+    {
+            int len = str.length();
+        
+        
+        
+        
+        
+        
+        
+        
         
                     
 }
