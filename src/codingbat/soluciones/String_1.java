@@ -367,7 +367,7 @@ public class String_1 {
                     if(ch != 'x')
                             stbuild.append(ch);
                     ch = str.charAt(1);
-        
+                    if(ch != 'x')
         
         
         
