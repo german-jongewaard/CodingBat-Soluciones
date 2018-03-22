@@ -360,6 +360,7 @@ public class String_1 {
     public String withoutX2(String str)
     {
             int len = str.length();
+            if(len >= 2)
         
         
         
