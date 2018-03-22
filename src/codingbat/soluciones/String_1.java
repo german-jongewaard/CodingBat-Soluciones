@@ -361,7 +361,8 @@ public class String_1 {
     {
             int len = str.length();
             if(len >= 2)
-        
+            {
+                    char ch = str.charAt(0);
         
         
         
