@@ -363,7 +363,7 @@ public class String_1 {
             if(len >= 2)
             {
                     char ch = str.charAt(0);
-        
+                    StringBuilder stbuild = new StringBuilder(len);
         
         
         
