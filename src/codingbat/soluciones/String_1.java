@@ -371,7 +371,8 @@ public class String_1 {
                             stbuild.append(ch);
                     stbuild.append(str.substring(2));
                     return stbuild.toString();
-        
+            }
+            else if(len == 1 && str.charAt(0) == 'x')
         
         
         
