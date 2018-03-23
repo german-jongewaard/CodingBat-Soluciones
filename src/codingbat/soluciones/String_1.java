@@ -369,6 +369,7 @@ public class String_1 {
                     ch = str.charAt(1);
                     if(ch != 'x')
                             stbuild.append(ch);
+                    stbuild.append(str.substring(2));
         
         
         
