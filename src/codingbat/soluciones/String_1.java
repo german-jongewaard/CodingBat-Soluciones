@@ -370,6 +370,7 @@ public class String_1 {
                     if(ch != 'x')
                             stbuild.append(ch);
                     stbuild.append(str.substring(2));
+                    return stbuild.toString();
         
         
         
