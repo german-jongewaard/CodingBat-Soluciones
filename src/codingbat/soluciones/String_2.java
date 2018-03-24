@@ -21,7 +21,9 @@ public class String_2 {
                     stbuild.append(ch);
             }
             return stbuild.toString();
-    
+    }
+
+// Return the number of times that the string "hi" appears anywhere in the given string.
     
     
     
