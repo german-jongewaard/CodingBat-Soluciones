@@ -18,6 +18,8 @@ public class String_2 {
             {
                     ch = str.charAt(i);
                     stbuild.append(ch);
+                    stbuild.append(ch);
+            }
     
     
     
