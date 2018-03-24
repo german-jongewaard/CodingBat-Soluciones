@@ -17,6 +17,7 @@ public class String_2 {
             for(int i = 0; i < len; i++)
             {
                     ch = str.charAt(i);
+                    stbuild.append(ch);
     
     
     
