@@ -12,6 +12,7 @@ public class String_2 {
     public String doubleChar(String str)
     {
             int len = str.length();
+            char ch;
     
     
     
