@@ -25,7 +25,8 @@ public class String_2 {
 
     // Return the number of times that the string "hi" appears anywhere in the given string.
     public int countHi(String str)
-    
+    {
+            int len = str.length()-1;
     
     
 }
