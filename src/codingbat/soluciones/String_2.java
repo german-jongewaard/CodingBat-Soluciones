@@ -20,6 +20,7 @@ public class String_2 {
                     stbuild.append(ch);
                     stbuild.append(ch);
             }
+            return stbuild.toString();
     
     
     
