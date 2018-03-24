@@ -14,6 +14,7 @@ public class String_2 {
             int len = str.length();
             char ch;
             StringBuilder stbuild = new StringBuilder(len*2);
+            for(int i = 0; i < len; i++)
     
     
     
