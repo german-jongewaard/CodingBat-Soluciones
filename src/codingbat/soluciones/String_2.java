@@ -41,6 +41,7 @@ public class String_2 {
     public boolean catDog(String str)
     {
             int len = str.length()-2;
+            int diff = 0;
             
     }
     
