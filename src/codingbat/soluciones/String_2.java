@@ -31,6 +31,10 @@ public class String_2 {
             for(int i = 0; i < len; i++)
             {
                     if(str.charAt(i) == 'h' && str.charAt(i+1) == 'i')
+                            times++;
+            }
+            return times;
+    }
     
     
 }
