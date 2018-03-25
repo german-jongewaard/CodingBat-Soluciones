@@ -43,6 +43,8 @@ public class String_2 {
             int len = str.length()-2;
             int diff = 0;
             for(int i = 0; i < len; i++)
+            {
+                    if(str.charAt(i) == 'c')
             
     }
     
