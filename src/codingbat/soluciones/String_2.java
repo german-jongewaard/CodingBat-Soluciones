@@ -40,6 +40,9 @@ public class String_2 {
     // times in the given string.
     public boolean catDog(String str)
     {
+            int len = str.length()-2;
+            
+    }
     
     
 }
