@@ -45,8 +45,10 @@ public class String_2 {
             for(int i = 0; i < len; i++)
             {
                     if(str.charAt(i) == 'c')
+                    {
+                            if(str.charAt(i+1) == 'a' && str.charAt(i+2) == 't')
             
-    }
+    
     
     
 }
