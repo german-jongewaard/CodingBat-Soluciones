@@ -27,6 +27,7 @@ public class String_2 {
     public int countHi(String str)
     {
             int len = str.length()-1;
+            int times = 0;
     
     
 }
