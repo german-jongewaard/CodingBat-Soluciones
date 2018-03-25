@@ -28,6 +28,7 @@ public class String_2 {
     {
             int len = str.length()-1;
             int times = 0;
+            for(int i = 0; i < len; i++)
     
     
 }
