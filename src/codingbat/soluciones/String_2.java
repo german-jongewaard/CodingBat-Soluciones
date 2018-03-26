@@ -64,6 +64,7 @@ public class String_2 {
     public int countCode(String str)
     {
             int times = 0;
+            int i = 0;
     
         
         
