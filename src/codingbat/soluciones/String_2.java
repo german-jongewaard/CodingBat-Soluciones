@@ -69,7 +69,8 @@ public class String_2 {
             while(i <  len)
             {
                     if(str.charAt(i) == 'c' && str.charAt(i+1) == 'o' && str.charAt(i+3) == 'e')
-            
+                    {
+                            times++;            
     
         
         
