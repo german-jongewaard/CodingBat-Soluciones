@@ -53,7 +53,9 @@ public class String_2 {
                     {
                             if(str.charAt(i+1) == 'o' && str.charAt(i+2) == 'g')    
                                     diff--;
-    
+                    }
+	}
+        return (diff == 0);                    
     
     
 }
