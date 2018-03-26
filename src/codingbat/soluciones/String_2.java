@@ -49,8 +49,10 @@ public class String_2 {
                             if(str.charAt(i+1) == 'a' && str.charAt(i+2) == 't')
                                     diff++;
                     }
-                    else if(str.charAt(i) == 'd')        
-            
+                    else if(str.charAt(i) == 'd')       
+                    {
+                            if(str.charAt(i+1) == 'o' && str.charAt(i+2) == 'g')    
+                            
     
     
     
