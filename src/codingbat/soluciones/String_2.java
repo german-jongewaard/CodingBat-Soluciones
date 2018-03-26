@@ -52,7 +52,7 @@ public class String_2 {
                     else if(str.charAt(i) == 'd')       
                     {
                             if(str.charAt(i+1) == 'o' && str.charAt(i+2) == 'g')    
-                            
+                                    diff--;
     
     
     
