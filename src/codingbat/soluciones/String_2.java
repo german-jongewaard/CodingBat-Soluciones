@@ -66,6 +66,10 @@ public class String_2 {
             int times = 0;
             int i = 0;
             int len = str.length()-3;
+            while(i <  len)
+            {
+                    if(str.charAt(i) == 'c' && str.charAt(i+1) == 'o' && str.charAt(i+3) == 'e')
+            
     
         
         
