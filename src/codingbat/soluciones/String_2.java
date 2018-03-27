@@ -128,6 +128,8 @@ public class String_2 {
    public boolean bobThere(String str)
    {
             int len = str.length() - 2;
+            for(int i = 0; i < len; i++)
+            {
     
     
     
