@@ -117,6 +117,14 @@ public class String_2 {
                             && str.charAt(i+2) == 'z')
                     {
                             if(i == 0 || str.charAt(i-1) != '.')
+                                   return true;
+                    }
+            }
+            return false;
+    }
+   
+   // Return true if the given string contains a "bob" string, but where 
+   // the middle 'o' char can be any char. 
   
     
     
