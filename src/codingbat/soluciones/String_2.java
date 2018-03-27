@@ -115,6 +115,8 @@ public class String_2 {
                     if(str.charAt(i) == 'x' 
                             && str.charAt(i+1) == 'y' 
                             && str.charAt(i+2) == 'z')
+                    {
+                            if(i == 0 || str.charAt(i-1) != '.')
   
     
     
