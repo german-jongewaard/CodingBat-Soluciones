@@ -147,6 +147,8 @@ public class String_2 {
             int len = str.length() - 1;
             char ch;
             for(int i = len; i >= 0; i--)
+            {
+                    ch = str.charAt(i);    
            
            
            
