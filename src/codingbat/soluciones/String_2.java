@@ -144,7 +144,8 @@ public class String_2 {
    // 'x's. Return true if the given string is xy-balanced.
    public boolean xyBalance(String str)
    {
-            int len = str.length() - 1;        
+            int len = str.length() - 1;
+            char ch;
            
            
            
