@@ -143,7 +143,8 @@ public class String_2 {
    // So "xxy" is balanced, but "xyx" is not. One 'y' can balance multiple 
    // 'x's. Return true if the given string is xy-balanced.
    public boolean xyBalance(String str)
-           
+   {
+            int len = str.length() - 1;        
            
            
            
