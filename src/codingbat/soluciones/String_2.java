@@ -173,4 +173,5 @@ public class String_2 {
         }
         // only 1 for loop will actually run
         for(; i < aLen; i++)
+                stbuild.append(a.charAt(i));
 }
