@@ -169,5 +169,5 @@ public class String_2 {
          for(; i < aLen && i < bLen; i++)
          {
                     stbuild.append(a.charAt(i));
-    
+                    stbuild.append(b.charAt(i));
 }
