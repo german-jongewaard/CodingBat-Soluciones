@@ -162,12 +162,15 @@ public class String_2 {
    // of B, and so on. Any leftover chars go at the end of the result. 
    public String mixString(String a, String b)
    {
-         int aLen = a.length();
-         int bLen = b.length();
-         int i = 0;
-         StringBuilder stbuild = new StringBuilder(aLen+bLen);
-         for(; i < aLen && i < bLen; i++)
-         {
+        int aLen = a.length();
+        int bLen = b.length();
+        int i = 0;
+        StringBuilder stbuild = new StringBuilder(aLen+bLen);
+        for(; i < aLen && i < bLen; i++)
+        {
                     stbuild.append(a.charAt(i));
                     stbuild.append(b.charAt(i));
+        }
+        // only 1 for loop will actually run
+        for(; i < aLen; i++)
 }
