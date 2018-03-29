@@ -166,7 +166,7 @@ public class String_2 {
          int bLen = b.length();
          int i = 0;
          StringBuilder stbuild = new StringBuilder(aLen+bLen);
-         
+         for(; i < aLen && i < bLen; i++)
     
     
 }
