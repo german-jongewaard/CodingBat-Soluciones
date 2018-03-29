@@ -163,6 +163,7 @@ public class String_2 {
    public String mixString(String a, String b)
    {
          int aLen = a.length();
+         int bLen = b.length();
     
     
 }
