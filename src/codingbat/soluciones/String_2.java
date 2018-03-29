@@ -156,5 +156,9 @@ public class String_2 {
             }
             return true;  
     }
+   
+   // Given two strings, A and B, create a bigger string made of the first 
+   // char of A, the first char of B, the second char of A, the second char 
+   // of B, and so on. Any leftover chars go at the end of the result. 
     
 }
