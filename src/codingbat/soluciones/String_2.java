@@ -162,5 +162,7 @@ public class String_2 {
    // of B, and so on. Any leftover chars go at the end of the result. 
    public String mixString(String a, String b)
    {
+         int aLen = a.length();
+    
     
 }
