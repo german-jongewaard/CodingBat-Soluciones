@@ -186,6 +186,12 @@ public class String_2 {
    public String repeatEnd(String str, int n)
    {
             StringBuilder stbuild = new StringBuilder(n*n);
+            String last = str.substring(str.length()-n);
+            
+            
+            
+            
+            
    
         
         
