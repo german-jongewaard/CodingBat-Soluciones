@@ -149,7 +149,7 @@ public class String_2 {
             for(int i = len; i >= 0; i--)
             {
                     ch = str.charAt(i);    
-           
+                    if(ch == 'x')
            
            
            
