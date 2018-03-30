@@ -176,7 +176,8 @@ public class String_2 {
                 stbuild.append(a.charAt(i));
         for(; i < bLen; i++)
                 stbuild.append(b.charAt(i));
-        
+        return stbuild.toString();
+    }
         
         
 }
