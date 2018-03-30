@@ -153,6 +153,8 @@ public class String_2 {
                             return false;
                     else if(ch == 'y')
                             return true;
-    
+            }
+            return true;  
+    }
     
 }
