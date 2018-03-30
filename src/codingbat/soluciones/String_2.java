@@ -152,7 +152,7 @@ public class String_2 {
                     if(ch == 'x')
                             return false;
                     else if(ch == 'y')
-           
+                            return true;
     
     
 }
