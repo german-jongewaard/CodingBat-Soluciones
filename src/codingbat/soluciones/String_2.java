@@ -180,15 +180,17 @@ public class String_2 {
     }
    
    
-   // Given a string and an int N, return a string made of N repetitions of the 
-   // last N characters of the string. You may assume that N is between 0 and 
-   // the length of the string, inclusive.
-   public String repeatEnd(String str, int n)
-   {
+    // Given a string and an int N, return a string made of N repetitions of the 
+    // last N characters of the string. You may assume that N is between 0 and 
+    // the length of the string, inclusive.
+    public String repeatEnd(String str, int n)
+    {
             StringBuilder stbuild = new StringBuilder(n*n);
             String last = str.substring(str.length()-n);
             for(int i = 0; i < n; i++)
                     stbuild.append(last);
+            return stbuild.toString();
+    }
             
             
             
