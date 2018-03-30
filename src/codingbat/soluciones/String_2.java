@@ -175,6 +175,7 @@ public class String_2 {
         for(; i < aLen; i++)
                 stbuild.append(a.charAt(i));
         for(; i < bLen; i++)
+                stbuild.append(b.charAt(i));
         
         
         
