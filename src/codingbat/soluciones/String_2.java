@@ -151,7 +151,7 @@ public class String_2 {
                     ch = str.charAt(i);    
                     if(ch == 'x')
                             return false;
-           
+                    else if(ch == 'y')
            
     
     
