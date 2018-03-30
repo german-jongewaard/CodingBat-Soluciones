@@ -184,6 +184,8 @@ public class String_2 {
    // last N characters of the string. You may assume that N is between 0 and 
    // the length of the string, inclusive.
    public String repeatEnd(String str, int n)
+   {
+            StringBuilder stbuild = new StringBuilder(n*n);
    
         
         
