@@ -203,7 +203,7 @@ public class String_2 {
             {
                     for(int k = 0; k < i; k++)
                             stbuild.append(str.charAt(k));
-                    
+            }
 
             
             
