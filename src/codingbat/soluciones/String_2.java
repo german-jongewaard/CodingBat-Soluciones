@@ -197,6 +197,8 @@ public class String_2 {
     // string, and so on. You may assume that n is between 0 and the length of 
     // the string, inclusive (i.e. n >= 0 and n <= str.length()).
     public String repeatFront(String str, int n)
+    {
+            StringBuilder stbuild = new StringBuilder((n*n + n)/2);            
 
             
             
