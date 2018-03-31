@@ -200,6 +200,8 @@ public class String_2 {
     {
             StringBuilder stbuild = new StringBuilder((n*n + n)/2);    
             for(int i = n; i >= 1; i--)
+            {
+                    for(int k = 0; k < i; k++)
 
             
             
