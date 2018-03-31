@@ -198,7 +198,8 @@ public class String_2 {
     // the string, inclusive (i.e. n >= 0 and n <= str.length()).
     public String repeatFront(String str, int n)
     {
-            StringBuilder stbuild = new StringBuilder((n*n + n)/2);            
+            StringBuilder stbuild = new StringBuilder((n*n + n)/2);    
+            for(int i = n; i >= 1; i--)
 
             
             
