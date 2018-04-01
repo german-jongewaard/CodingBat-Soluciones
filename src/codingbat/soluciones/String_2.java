@@ -207,7 +207,8 @@ public class String_2 {
             return stbuild.toString();
     }
     
-    //Given two strings, word and a separator, return a big string made of count occurences of the word, separated by the separator string. 
+    // Given two strings, word and a separator, return a big string made of 
+    // count occurences of the word, separated by the separator string. 
 
             
             
