@@ -213,7 +213,7 @@ public class String_2 {
     {
             if(count == 0)
                     return "";
-            
+            StringBuilder stbuild = new StringBuilder(count*word.length()+sep.length()*(count-1));
             
             
             
