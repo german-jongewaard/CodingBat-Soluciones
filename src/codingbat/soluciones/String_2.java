@@ -220,6 +220,8 @@ public class String_2 {
                     stbuild.append(sep);     
             }
             stbuild.append(word);
+            return stbuild.toString();
+    }
             
    
         
