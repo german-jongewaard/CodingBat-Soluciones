@@ -217,7 +217,7 @@ public class String_2 {
             for(int i = 1; i < count; i++)
             {
                     stbuild.append(word);
-            
+                    stbuild.append(sep);     
             
             
    
