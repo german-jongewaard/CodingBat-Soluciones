@@ -212,6 +212,7 @@ public class String_2 {
     public String repeatSeparator(String word, String sep, int count)
     {
             if(count == 0)
+                    return "";
             
             
             
