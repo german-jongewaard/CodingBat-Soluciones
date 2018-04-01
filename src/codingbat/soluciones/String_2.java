@@ -218,7 +218,8 @@ public class String_2 {
             {
                     stbuild.append(word);
                     stbuild.append(sep);     
-            
+            }
+            stbuild.append(word);
             
    
         
