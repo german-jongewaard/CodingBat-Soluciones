@@ -229,6 +229,7 @@ public class String_2 {
     public boolean prefixAgain(String str, int n)
     {
             String prfx = str.substring(0, n);
+            return (str.indexOf(prfx, 1) != -1);
     }
             
    
