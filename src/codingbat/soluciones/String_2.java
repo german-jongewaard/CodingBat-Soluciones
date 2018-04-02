@@ -227,6 +227,9 @@ public class String_2 {
     // the string. Does that prefix string appear somewhere else in the string? 
     // Assume that the string is not empty and that N is in the range 1..str.length().
     public boolean prefixAgain(String str, int n)
+    {
+            String prfx = str.substring(0, n);
+    }
             
    
         
