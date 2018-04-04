@@ -246,6 +246,7 @@ public class String_2 {
             {
                     if(str.charAt(mid) == 'y')
                             return(str.charAt(mid-1) == 'x' && str.charAt(mid+1) == 'z');
+                    if(str.charAt(mid-1) == 'y')
                         
                         
                         
