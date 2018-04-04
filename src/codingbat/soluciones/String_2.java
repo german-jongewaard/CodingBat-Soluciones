@@ -249,6 +249,9 @@ public class String_2 {
                     if(str.charAt(mid-1) == 'y')
                             return(str.charAt(mid-2) == 'x' && str.charAt(mid) == 'z');
                     return false;
+            }
+            // len%2 != 0
+            else if(str.charAt(mid) == 'y')
                         
                         
                         
