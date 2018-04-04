@@ -243,5 +243,15 @@ public class String_2 {
                     return false;
             mid = len/2;
             if(len%2 == 0)
+            {
+                    if(str.charAt(mid) == 'y')
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
         
 }
