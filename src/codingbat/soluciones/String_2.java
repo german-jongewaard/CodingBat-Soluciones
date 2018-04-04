@@ -241,5 +241,6 @@ public class String_2 {
             int mid;
             if(len < 3)
                     return false;
+            mid = len/2;
         
 }
