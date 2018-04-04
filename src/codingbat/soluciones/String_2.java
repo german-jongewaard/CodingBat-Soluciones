@@ -238,6 +238,7 @@ public class String_2 {
     public boolean xyzMiddle(String str)
     {
             int len = str.length();
+            int mid;
         
         
 }
