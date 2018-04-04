@@ -242,5 +242,6 @@ public class String_2 {
             if(len < 3)
                     return false;
             mid = len/2;
+            if(len%2 == 0)
         
 }
