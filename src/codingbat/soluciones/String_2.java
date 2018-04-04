@@ -239,6 +239,6 @@ public class String_2 {
     {
             int len = str.length();
             int mid;
-        
+            if(len < 3)
         
 }
