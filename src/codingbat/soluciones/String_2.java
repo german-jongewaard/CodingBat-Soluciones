@@ -267,7 +267,9 @@ public class String_2 {
             if(iFirst != -1 && iLast != -1 && iFirst != iLast)  
                       return str.substring(iFirst+5, iLast);
             return "";
-                        
+    }
+    
+    
                         
                         
                         
