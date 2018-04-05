@@ -264,7 +264,7 @@ public class String_2 {
     {
             int iFirst = str.indexOf("bread");                    
             int iLast = str.lastIndexOf("bread");   
-                        
+            if(iFirst != -1 && iLast != -1 && iFirst != iLast)            
                         
                         
                         
