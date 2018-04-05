@@ -252,6 +252,7 @@ public class String_2 {
             }
             // len%2 != 0
             else if(str.charAt(mid) == 'y')
+                            return(str.charAt(mid-1) == 'x' && str.charAt(mid+1) == 'z');
                         
                         
                         
