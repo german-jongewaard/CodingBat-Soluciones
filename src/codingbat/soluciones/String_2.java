@@ -263,7 +263,7 @@ public class String_2 {
     public String getSandwich(String str)                    
     {
             int iFirst = str.indexOf("bread");                    
-                        
+            int iLast = str.lastIndexOf("bread");   
                         
                         
                         
