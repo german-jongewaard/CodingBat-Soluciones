@@ -254,6 +254,12 @@ public class String_2 {
             else if(str.charAt(mid) == 'y')
                             return(str.charAt(mid-1) == 'x' && str.charAt(mid+1) == 'z');
             return false;
+    }
+    
+    
+    //A sandwich is two pieces of bread with something in between. 
+    // Return the string that is between the first and last appearance of "bread" 
+    // in the given string, or return the empty string "" if there are not two pieces of bread.
                         
                         
                         
