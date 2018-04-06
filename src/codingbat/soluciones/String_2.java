@@ -274,8 +274,8 @@ public class String_2 {
     public boolean sameStarChar(String str)
     {                 
             int len = str.length() - 1;
-            for(int i = 1; i < len; i++)
-    }
-                        
+            for(int i = 1; i < len; i++) 
+            {
+                    if(str.charAt(i) == '*')            
         
 }
