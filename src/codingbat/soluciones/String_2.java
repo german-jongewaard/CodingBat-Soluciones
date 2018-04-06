@@ -281,7 +281,9 @@ public class String_2 {
                             if(str.charAt(i-1) != str.charAt(i+1))   
                                     return false;
                      }	
-            }       
+            } 
+            return true;
+}
                             
                             
                             
