@@ -277,5 +277,14 @@ public class String_2 {
             for(int i = 1; i < len; i++) 
             {
                     if(str.charAt(i) == '*')            
-        
+                    {
+                            if(str.charAt(i-1) != str.charAt(i+1))            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
 }
