@@ -273,6 +273,9 @@ public class String_2 {
     // both immediately before and after the star, they are the same. 
     public boolean sameStarChar(String str)
     {                 
+            int len = str.length() - 1;
+            for(int i = 1; i < len; i++)
+    }
                         
         
 }
