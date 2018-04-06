@@ -291,6 +291,8 @@ public class String_2 {
     // words, the middle letter is gone, so "zipXzap" yields "zpXzp". 
     public String zipZap(String str)
     {                        
+            int len = str.length();
+    
                             
                             
                             
