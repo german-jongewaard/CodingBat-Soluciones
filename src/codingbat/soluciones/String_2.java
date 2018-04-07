@@ -304,7 +304,8 @@ public class String_2 {
                                stbuild.append("zp");
                                i += 3;
                     }
-                    else           
+                    else {
+                                stbuild.append(ch);
              
     
                             
