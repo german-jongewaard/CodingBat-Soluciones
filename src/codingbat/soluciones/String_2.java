@@ -292,6 +292,7 @@ public class String_2 {
     public String zipZap(String str)
     {                        
             int len = str.length();
+            int lim = len - 2;
     
                             
                             
