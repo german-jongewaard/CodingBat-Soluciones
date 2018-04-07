@@ -299,6 +299,7 @@ public class String_2 {
             while(i < len)
             {
                      ch = str.charAt(i);
+                     if(ch == 'z' && i < lim && str.charAt(i+2) == 'p')
              
     
                             
