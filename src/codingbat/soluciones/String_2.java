@@ -300,6 +300,8 @@ public class String_2 {
             {
                      ch = str.charAt(i);
                      if(ch == 'z' && i < lim && str.charAt(i+2) == 'p')
+                     {
+                                stbuild.append("zp");    
              
     
                             
