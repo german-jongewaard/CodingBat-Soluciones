@@ -295,6 +295,7 @@ public class String_2 {
             int lim = len - 2;
             int i = 0;
             char ch;
+            StringBuilder stbuild = new StringBuilder(len);
     
                             
                             
