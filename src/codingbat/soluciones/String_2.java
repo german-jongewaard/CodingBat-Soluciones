@@ -293,6 +293,7 @@ public class String_2 {
     {                        
             int len = str.length();
             int lim = len - 2;
+            int i = 0;
     
                             
                             
