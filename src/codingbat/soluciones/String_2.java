@@ -298,11 +298,13 @@ public class String_2 {
             StringBuilder stbuild = new StringBuilder(len);
             while(i < len)
             {
-                     ch = str.charAt(i);
-                     if(ch == 'z' && i < lim && str.charAt(i+2) == 'p')
-                     {
-                                stbuild.append("zp");
-                                i += 3;
+                    ch = str.charAt(i);
+                    if(ch == 'z' && i < lim && str.charAt(i+2) == 'p')
+                    {
+                               stbuild.append("zp");
+                               i += 3;
+                    }
+                    else           
              
     
                             
