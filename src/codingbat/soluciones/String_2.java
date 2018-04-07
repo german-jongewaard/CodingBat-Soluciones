@@ -298,6 +298,8 @@ public class String_2 {
             StringBuilder stbuild = new StringBuilder(len);
             while(i < len)
             {
+                     ch = str.charAt(i);
+             
     
                             
                             
