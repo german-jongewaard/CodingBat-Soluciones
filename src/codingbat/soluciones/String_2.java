@@ -320,6 +320,7 @@ public class String_2 {
     public String starOut(String str) 
     {
             int len = str.length();
+            int[] indexes = new int[len];
                             
                             
                             
