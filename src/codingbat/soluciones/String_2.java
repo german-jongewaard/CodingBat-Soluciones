@@ -323,6 +323,8 @@ public class String_2 {
             int[] indexes = new int[len];
             char ch;
             StringBuilder stbuild = new StringBuilder(len);
+            for(int i = 0; i < len; i++)
+            {
                             
                             
                             
