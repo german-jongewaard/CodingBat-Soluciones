@@ -309,7 +309,8 @@ public class String_2 {
                                 stbuild.append(ch);
                                 i++;
                     }
-             
+            }
+            return stbuild.toString(); 
     
                             
                             
