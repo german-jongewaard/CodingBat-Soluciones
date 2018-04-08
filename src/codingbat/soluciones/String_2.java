@@ -325,6 +325,9 @@ public class String_2 {
             StringBuilder stbuild = new StringBuilder(len);
             for(int i = 0; i < len; i++)
             {
+                    if(str.charAt(i) == '*')
+                    {
+            
                             
                             
                             
