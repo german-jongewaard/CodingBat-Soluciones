@@ -321,7 +321,8 @@ public class String_2 {
     {
             int len = str.length();
             int[] indexes = new int[len];
-                            
+            char ch;
+            StringBuilder stbuild = new StringBuilder(len);
                             
                             
                             
