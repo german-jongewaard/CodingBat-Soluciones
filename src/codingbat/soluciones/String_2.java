@@ -336,7 +336,8 @@ public class String_2 {
             } 
             for(int i = 0; i < len; i++)
             {
-                    if(indexes[i] == 0)         
+                    if(indexes[i] == 0) 
+                            stbuild.append(str.charAt(i));
             
                             
                             
