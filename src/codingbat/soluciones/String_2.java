@@ -333,7 +333,8 @@ public class String_2 {
                             if(i < (len-1))
                                     indexes[i+1] = 1;
                     }
-            }                
+            } 
+            for(int i = 0; i < len; i++)
                      
             
                             
