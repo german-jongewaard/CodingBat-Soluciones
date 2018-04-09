@@ -339,6 +339,7 @@ public class String_2 {
                     if(indexes[i] == 0) 
                             stbuild.append(str.charAt(i));
             }
+            return stbuild.toString();
                             
                             
                             
