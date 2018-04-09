@@ -330,7 +330,8 @@ public class String_2 {
                             indexes[i] = 1;
                             if(i >= 1)
                                     indexes[i-1] = 1;
-                            if(i < (len-1)) 
+                            if(i < (len-1))
+                                    indexes[i+1] = 1;
                                     
                      
             
