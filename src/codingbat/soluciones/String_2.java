@@ -328,6 +328,7 @@ public class String_2 {
                     if(str.charAt(i) == '*')
                     {
                             indexes[i] = 1;
+                            if(i >= 1)
                      
             
                             
