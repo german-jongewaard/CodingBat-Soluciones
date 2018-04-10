@@ -360,7 +360,7 @@ public class String_2 {
                             stbuild.append('+');
                             i++;
                     }    
-    
+                    stbuild.append(word);    
     
     
                             
