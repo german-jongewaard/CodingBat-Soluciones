@@ -349,6 +349,7 @@ public class String_2 {
     public String plusOut(String str, String word)
     {
             int len = str.length();
+            int wLen = word.length();
     
     
     
