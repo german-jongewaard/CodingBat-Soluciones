@@ -358,7 +358,8 @@ public class String_2 {
                     while(i < pos)
                     {
                             stbuild.append('+');
-            
+                            i++;
+                    }    
     
     
     
