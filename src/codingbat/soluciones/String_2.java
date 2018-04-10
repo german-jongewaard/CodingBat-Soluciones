@@ -355,6 +355,9 @@ public class String_2 {
             StringBuilder stbuild = new StringBuilder(len);
             while(pos != -1)
             {
+                    while(i < pos)
+                    {
+            
     
     
     
