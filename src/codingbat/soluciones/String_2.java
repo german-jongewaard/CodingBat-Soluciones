@@ -347,6 +347,11 @@ public class String_2 {
     // original String where all chars have been replaced by pluses ("+"), 
     // except for appearances of the word string which are preserved unchanged.
     public String plusOut(String str, String word)
+    {
+            int len = str.length();
+    
+    
+    
     
                             
                             
