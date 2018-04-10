@@ -353,7 +353,8 @@ public class String_2 {
             int pos = str.indexOf(word);
             int i = 0;
             StringBuilder stbuild = new StringBuilder(len);
-    
+            while(pos != -1)
+            {
     
     
     
