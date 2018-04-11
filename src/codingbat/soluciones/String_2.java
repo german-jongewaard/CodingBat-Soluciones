@@ -365,6 +365,7 @@ public class String_2 {
                     pos = str.indexOf(word, i);
             }
             for(; i < len; i++)
+                    stbuild.append('+');
                     
     
     
