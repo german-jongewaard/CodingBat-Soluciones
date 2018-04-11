@@ -363,6 +363,8 @@ public class String_2 {
                     stbuild.append(word);  
                     i = pos + wLen;
                     pos = str.indexOf(word, i);
+            }
+            for(; i < len; i++)
                     
     
     
