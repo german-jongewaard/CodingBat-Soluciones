@@ -366,6 +366,7 @@ public class String_2 {
             }
             for(; i < len; i++)
                     stbuild.append('+');
+            return stbuild.toString();
                     
     
     
