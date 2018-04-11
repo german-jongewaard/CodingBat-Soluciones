@@ -374,6 +374,8 @@ public class String_2 {
     // Ignore cases where there is no char before or after the word, and a char may 
     // be included twice if it is between two words. 
     public String wordEnds(String str, String word)
+    {
+            int len = str.length();        
                     
     
     
