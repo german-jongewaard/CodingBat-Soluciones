@@ -360,7 +360,9 @@ public class String_2 {
                             stbuild.append('+');
                             i++;
                     }    
-                    stbuild.append(word);    
+                    stbuild.append(word);  
+                    i = pos + wLen;
+                    
     
     
                             
