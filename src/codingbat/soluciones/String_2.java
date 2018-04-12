@@ -379,6 +379,7 @@ public class String_2 {
             int wLen = word.length();
             int pos = str.indexOf(word);
             int i = 0;
+            StringBuilder stbuild = new StringBuilder(len);
                     
     
     
