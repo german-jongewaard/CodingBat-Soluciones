@@ -378,6 +378,7 @@ public class String_2 {
             int len = str.length();      
             int wLen = word.length();
             int pos = str.indexOf(word);
+            int i = 0;
                     
     
     
