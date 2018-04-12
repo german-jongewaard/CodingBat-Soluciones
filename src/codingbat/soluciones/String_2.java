@@ -381,6 +381,8 @@ public class String_2 {
             int i = 0;
             StringBuilder stbuild = new StringBuilder(len);
             while(pos != -1)
+            {
+                    i = pos + wLen;    
                     
     
     
