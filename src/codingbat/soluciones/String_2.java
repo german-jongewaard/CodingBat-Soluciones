@@ -375,7 +375,8 @@ public class String_2 {
     // be included twice if it is between two words. 
     public String wordEnds(String str, String word)
     {
-            int len = str.length();        
+            int len = str.length();      
+            int wLen = word.length();
                     
     
     
