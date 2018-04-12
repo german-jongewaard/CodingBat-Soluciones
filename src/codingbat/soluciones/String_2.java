@@ -385,6 +385,7 @@ public class String_2 {
                     i = pos + wLen;    
                     if(pos >= 1)
                           stbuild.append(str.charAt(pos-1));
+                    if(i < len)
                     
     
     
