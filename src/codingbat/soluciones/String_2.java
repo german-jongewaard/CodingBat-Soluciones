@@ -383,6 +383,7 @@ public class String_2 {
             while(pos != -1)
             {
                     i = pos + wLen;    
+                    if(pos >= 1)
                     
     
     
