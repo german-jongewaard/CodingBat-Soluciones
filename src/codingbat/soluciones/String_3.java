@@ -14,4 +14,5 @@ public class String_3 {
     // Character.isLetter(char) tests if a char is an alphabetic letter.)
     public int countYZ(String str)
     {
+            int count = 0;
 }
