@@ -27,6 +27,9 @@ public class String_3 {
                             if(!Character.isLetter(ch))
                                     count++;
                     }
-                    else        
+                    else      
+                            ch = str.charAt(i);
+            }
+            if(ch == 'y' || ch == 'z')        
             
 }
