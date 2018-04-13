@@ -16,4 +16,5 @@ public class String_3 {
     {
             int count = 0;
             int limit = str.length() - 1;
+            char ch;
 }
