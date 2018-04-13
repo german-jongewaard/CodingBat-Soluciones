@@ -30,6 +30,9 @@ public class String_3 {
                     else      
                             ch = str.charAt(i);
             }
-            if(ch == 'y' || ch == 'z')        
+            if(ch == 'y' || ch == 'z')      
+                
+                
+                
             
 }
