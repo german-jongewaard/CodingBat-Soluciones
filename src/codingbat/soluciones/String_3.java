@@ -15,4 +15,5 @@ public class String_3 {
     public int countYZ(String str)
     {
             int count = 0;
+            int limit = str.length() - 1;
 }
