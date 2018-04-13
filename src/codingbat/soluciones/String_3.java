@@ -12,5 +12,6 @@ public class String_3 {
     // (not case sensitive). We'll say that a y or z is at the end of a word 
     // if there is not an alphabetic letter immediately following it. (Note: 
     // Character.isLetter(char) tests if a char is an alphabetic letter.)
-    
+    public int countYZ(String str)
+    {
 }
