@@ -390,10 +390,5 @@ public class String_2 {
                     pos = str.indexOf(word, i); 
             }
             return stbuild.toString();
-    }
-                    
-    
-    
-                            
-                            
+    }                   
 }
