@@ -23,6 +23,7 @@ public class String_3 {
             {
                     if(ch == 'y' || ch == 'z') 
                     {
-                            ch = str.charAt(i);    
+                            ch = str.charAt(i);
+                            if(!Character.isLetter(ch))
             
 }
