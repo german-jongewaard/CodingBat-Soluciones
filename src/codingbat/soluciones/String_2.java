@@ -387,6 +387,7 @@ public class String_2 {
                             stbuild.append(str.charAt(pos-1));
                     if(i < len)
                             stbuild.append(str.charAt(pos+wLen));
+                    pos = str.indexOf(word, i); 
                     
     
     
