@@ -18,6 +18,6 @@ public class String_3 {
             int limit = str.length() - 1;
             char ch;
             str = str.toLowerCase();
-            
+            ch = str.charAt(0);
             
 }
