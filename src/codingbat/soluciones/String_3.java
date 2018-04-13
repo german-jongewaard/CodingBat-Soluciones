@@ -20,5 +20,7 @@ public class String_3 {
             str = str.toLowerCase();
             ch = str.charAt(0);
             for(int i = 1; i <= limit; i++)
+            {
+                    if(ch == 'y' || ch == 'z')    
             
 }
