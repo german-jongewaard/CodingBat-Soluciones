@@ -26,5 +26,7 @@ public class String_3 {
                             ch = str.charAt(i);
                             if(!Character.isLetter(ch))
                                     count++;
+                    }
+                    else        
             
 }
