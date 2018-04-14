@@ -21,18 +21,16 @@ public class String_3 {
             ch = str.charAt(0);
             for(int i = 1; i <= limit; i++)
             {
-                    if(ch == 'y' || ch == 'z') 
+                    if(ch == 'y' || ch == 'z')
                     {
                             ch = str.charAt(i);
                             if(!Character.isLetter(ch))
                                     count++;
                     }
-                    else      
+                    else
                             ch = str.charAt(i);
             }
-            if(ch == 'y' || ch == 'z')      
-            {
-                    ch = str.charAt(i);    
+            if(ch == 'y' || ch == 'z')    
                 
                 
             
