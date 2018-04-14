@@ -41,6 +41,11 @@ public class String_3 {
     // Remove only non-overlapping instances, so with "xxx" removing "xx" leaves "x".
     public String withoutString(String base, String remove)
     {
-                
+            int blen = base.length();
+     
+        
+        
+        
+        
             
 }
