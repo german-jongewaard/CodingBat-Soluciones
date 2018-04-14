@@ -42,6 +42,7 @@ public class String_3 {
     public String withoutString(String base, String remove)
     {
             int blen = base.length();
+            int rlen = remove.length();
      
         
         
