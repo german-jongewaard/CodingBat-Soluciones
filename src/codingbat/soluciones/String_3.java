@@ -32,6 +32,7 @@ public class String_3 {
             }
             if(ch == 'y' || ch == 'z')
                     count++;
+            return count;
                 
                 
             
