@@ -31,7 +31,8 @@ public class String_3 {
                             ch = str.charAt(i);
             }
             if(ch == 'y' || ch == 'z')      
-                
+            {
+                    ch = str.charAt(i);    
                 
                 
             
