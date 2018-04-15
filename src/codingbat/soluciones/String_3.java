@@ -45,6 +45,7 @@ public class String_3 {
             int rlen = remove.length();
             int current = 0;
             int place;
+            StringBuilder stbuild = new StringBuilder(blen);
      
         
         
