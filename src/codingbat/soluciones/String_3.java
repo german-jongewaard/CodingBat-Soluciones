@@ -53,7 +53,9 @@ public class String_3 {
             {
                     for(; current < place; current++)
                     { 
-                        
+                            stbuild.append(base.charAt(current));
+                    }
+                    current = place+rlen;
                     
         
         
