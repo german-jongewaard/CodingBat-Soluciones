@@ -48,7 +48,7 @@ public class String_3 {
             StringBuilder stbuild = new StringBuilder(blen);
             String blow = base.toLowerCase();
             String rlow = remove.toLowerCase();
-     
+            place = blow.indexOf(rlow);    
         
         
         
