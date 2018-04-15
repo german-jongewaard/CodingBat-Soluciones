@@ -57,6 +57,8 @@ public class String_3 {
                     }
                     current = place+rlen;
                     place = blow.indexOf(rlow, current);
+            }
+            for(; current < blen; current++)        
         
         
         
