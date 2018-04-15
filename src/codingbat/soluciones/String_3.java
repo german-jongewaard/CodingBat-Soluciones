@@ -59,7 +59,8 @@ public class String_3 {
                     place = blow.indexOf(rlow, current);
             }
             for(; current < blen; current++)        
-        
+            {
+                            stbuild.append(base.charAt(current));    
         
         
         
