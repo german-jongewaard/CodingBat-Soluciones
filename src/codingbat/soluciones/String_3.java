@@ -56,7 +56,7 @@ public class String_3 {
                             stbuild.append(base.charAt(current));
                     }
                     current = place+rlen;
-                    
+                    place = blow.indexOf(rlow, current);
         
         
         
