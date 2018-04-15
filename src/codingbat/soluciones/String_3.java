@@ -43,6 +43,7 @@ public class String_3 {
     {
             int blen = base.length();
             int rlen = remove.length();
+            int current = 0;
      
         
         
