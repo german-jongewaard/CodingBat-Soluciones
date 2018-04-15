@@ -51,6 +51,10 @@ public class String_3 {
             place = blow.indexOf(rlow);
             while(place != -1)
             {
+                    for(; current < place; current++)
+                    { 
+                        
+                    
         
         
         
