@@ -61,8 +61,9 @@ public class String_3 {
             for(; current < blen; current++)        
             {
                             stbuild.append(base.charAt(current));    
-        
-        
+            }
+            return stbuild.toString();                
+                            
         
             
 }
