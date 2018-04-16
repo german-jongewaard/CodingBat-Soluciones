@@ -71,7 +71,8 @@ public class String_3 {
     public boolean equalIsNot(String str)
     {
                 int balance = 0;
-                int p;    
+                int p;
+                p = str.indexOf("is");
 
 
 
