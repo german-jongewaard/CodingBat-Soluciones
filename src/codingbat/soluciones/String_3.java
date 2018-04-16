@@ -70,6 +70,7 @@ public class String_3 {
     // the string (case sensitive). 
     public boolean equalIsNot(String str)
     {
+                int balance = 0;
 
 
 
