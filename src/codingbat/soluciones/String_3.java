@@ -74,7 +74,8 @@ public class String_3 {
                 int p;
                 p = str.indexOf("is");
                 while(p != -1)
-                {    
+                {   
+                            balance++;
 
 
     
