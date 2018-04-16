@@ -62,7 +62,8 @@ public class String_3 {
             {
                             stbuild.append(base.charAt(current));    
             }
-            return stbuild.toString();                
+            return stbuild.toString(); 
+    }        
                             
         
             
