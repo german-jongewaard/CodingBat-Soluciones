@@ -84,7 +84,8 @@ public class String_3 {
                             balance--;    
                         p = str.indexOf("not", p+3);    
                         }
-                        return (balance == 0);    
+                        return (balance == 0); 
+    }                    
     
             
 }
