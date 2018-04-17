@@ -80,7 +80,8 @@ public class String_3 {
                         }
                         p = str.indexOf("not");
                 while(p != -1)
-                {    
+                {
+                            balance--;    
 
     
             
