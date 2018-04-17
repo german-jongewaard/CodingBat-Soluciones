@@ -79,6 +79,8 @@ public class String_3 {
                         p = str.indexOf("is", p+2);
                         }
                         p = str.indexOf("not");
+                while(p != -1)
+                    
 
     
             
