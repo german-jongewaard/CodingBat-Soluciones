@@ -94,6 +94,7 @@ public class String_3 {
     {
             int check = 0; 
             int limit = str.length();
+        for(int i = 0; i < limit; i++)    
         
         
         
