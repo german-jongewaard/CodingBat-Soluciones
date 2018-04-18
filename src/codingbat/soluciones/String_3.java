@@ -93,7 +93,7 @@ public class String_3 {
     public boolean gHappy(String str)
     {
             int check = 0; 
-    
+            int limit = str.length();
         
         
         
