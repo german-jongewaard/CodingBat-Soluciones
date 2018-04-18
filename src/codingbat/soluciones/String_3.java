@@ -98,7 +98,8 @@ public class String_3 {
         {
                 if(str.charAt(i) == 'g')
                 {
-                        check = 0;    
+                        check = 0;
+                        if(i > 0)
         
         
         
