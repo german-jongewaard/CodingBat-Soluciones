@@ -97,7 +97,8 @@ public class String_3 {
         for(int i = 0; i < limit; i++)    
         {
                 if(str.charAt(i) == 'g')
-        
+                {
+                        check = 0;    
         
         
         
