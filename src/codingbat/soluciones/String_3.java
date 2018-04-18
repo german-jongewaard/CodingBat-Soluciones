@@ -92,6 +92,7 @@ public class String_3 {
     // g's in the given string are happy. 
     public boolean gHappy(String str)
     {
+            int check = 0; 
     
         
         
