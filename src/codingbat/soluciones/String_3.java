@@ -106,6 +106,8 @@ public class String_3 {
                                 }
                                 else
                                         check++;
+                                if(i < limit-1)
+                                    
         
         
             
