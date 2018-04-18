@@ -103,6 +103,8 @@ public class String_3 {
                         {
                                         if(str.charAt(i-1) != 'g')
                                                 check++;
+                                }
+                                else
         
         
             
