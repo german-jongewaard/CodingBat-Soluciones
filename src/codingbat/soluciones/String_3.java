@@ -100,7 +100,8 @@ public class String_3 {
                 {
                         check = 0;
                         if(i > 0)
-        
+                        {
+                                        if(str.charAt(i-1) != 'g')        
         
         
             
