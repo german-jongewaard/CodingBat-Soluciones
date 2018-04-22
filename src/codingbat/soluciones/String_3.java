@@ -108,7 +108,8 @@ public class String_3 {
                                         check++;
                                 if(i < limit-1)
                         {
-                                        if(str.charAt(i+1) != 'g')            
+                                        if(str.charAt(i+1) != 'g')      
+                                                check++;
                                     
         
         
