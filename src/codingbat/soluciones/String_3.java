@@ -113,6 +113,7 @@ public class String_3 {
                                 }
                                 else       
                                         check++; 
+                                if(check == 2)
                                     
         
         
