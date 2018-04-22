@@ -115,6 +115,7 @@ public class String_3 {
                                         check++; 
                                 if(check == 2)
                                         return false;
+                        }        
                                     
         
         
