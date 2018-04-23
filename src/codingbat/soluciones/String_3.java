@@ -126,6 +126,7 @@ public class String_3 {
     public int countTriple(String str)
     {
             int count = 0;
+            int lim = str.length() - 2;
         
             
 }
