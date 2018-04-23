@@ -127,7 +127,9 @@ public class String_3 {
     {
             int count = 0;
             int lim = str.length() - 2;
-        for(int i = 0; i < lim; i++)    
+        for(int i = 0; i < lim; i++)
+        {
+                if(str.charAt(i) == str.charAt(i+1) && str.charAt(i) == str.charAt(i+2))    
         
             
 }
