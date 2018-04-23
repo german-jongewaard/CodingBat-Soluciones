@@ -124,6 +124,8 @@ public class String_3 {
     // in a row. Return the number of triples in the given string. The 
     // triples may overlap.    
     public int countTriple(String str)
+    {
+            int count = 0;
         
             
 }
