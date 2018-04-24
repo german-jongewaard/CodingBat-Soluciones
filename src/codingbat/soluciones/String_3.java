@@ -147,7 +147,8 @@ public class String_3 {
             char ch;   
             for(int i = 0; i < lim; i++)
             {
-                    ch = str.charAt(i);    
+                    ch = str.charAt(i);  
+                            if(Character.isDigit(ch)) // or simply (ch >= '0' && ch <= '9')
     
     
     
