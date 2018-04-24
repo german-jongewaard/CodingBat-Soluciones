@@ -143,6 +143,7 @@ public class String_3 {
     public int sumDigits(String str)
     {
             int sum = 0;
+                int lim = str.length();
     
     
     
