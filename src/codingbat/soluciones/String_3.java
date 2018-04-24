@@ -144,7 +144,8 @@ public class String_3 {
     {
             int sum = 0;
                 int lim = str.length();
-            char ch;    
+            char ch;   
+            for(int i = 0; i < lim; i++)
     
     
     
