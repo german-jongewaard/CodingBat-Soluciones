@@ -131,6 +131,9 @@ public class String_3 {
         {
                 if(str.charAt(i) == str.charAt(i+1) && str.charAt(i) == str.charAt(i+2))    
                         count++;
+         }
+        return count;
+      }        
         
             
 }
