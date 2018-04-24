@@ -140,4 +140,9 @@ public class String_3 {
     // string, ignoring all other characters. Return 0 if there are no digits 
     // in the string. (Note: Character.isDigit(char) tests if a char is one of 
     // the chars '0', '1', .. '9'. Integer.parseInt(string) converts a string to an int.)
+    public int sumDigits(String str)
+    
+    
+    
+    
 }
