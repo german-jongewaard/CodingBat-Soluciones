@@ -146,6 +146,8 @@ public class String_3 {
                 int lim = str.length();
             char ch;   
             for(int i = 0; i < lim; i++)
+            {
+                    ch = str.charAt(i);    
     
     
     
