@@ -158,6 +158,8 @@ public class String_3 {
     // beginning and end of the string without overlapping. For example, 
     // sameEnds("abXab") is "ab".
     public String sameEnds(String string)
+    {
+            String temp;        
     
     
     
