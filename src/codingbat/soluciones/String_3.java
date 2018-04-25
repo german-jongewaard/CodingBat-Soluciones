@@ -159,7 +159,8 @@ public class String_3 {
     // sameEnds("abXab") is "ab".
     public String sameEnds(String string)
     {
-            String temp;        
+            String temp;  
+            int p = string.length();
     
     
     
