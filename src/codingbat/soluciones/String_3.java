@@ -151,7 +151,8 @@ public class String_3 {
                             if(Character.isDigit(ch)) // or simply (ch >= '0' && ch <= '9')
                                     sum += (ch - '0');
             }
-            return sum;                
+            return sum;     
+    }        
     
     
     
