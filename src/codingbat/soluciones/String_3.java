@@ -161,6 +161,7 @@ public class String_3 {
     {
             String temp;  
             int p = string.length();
+            int i;
     
     
     
