@@ -171,7 +171,8 @@ public class String_3 {
             {     
                     i = p/2; 
                     p = i;
-            }        
+            }
+            for(; i >= 1; i--, p++)
     
     
     
