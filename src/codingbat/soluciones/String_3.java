@@ -175,6 +175,7 @@ public class String_3 {
             for(; i >= 1; i--, p++)
             {
                     temp = string.substring(0, i);
+                    if(temp.equals(string.substring(p)))
     
     
     
