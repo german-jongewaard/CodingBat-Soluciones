@@ -173,6 +173,8 @@ public class String_3 {
                     p = i;
             }
             for(; i >= 1; i--, p++)
+            {
+                    temp = string.substring(0, i);
     
     
     
