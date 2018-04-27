@@ -170,6 +170,7 @@ public class String_3 {
             else
             {     
                     i = p/2; 
+                    p = i;
     
     
     
