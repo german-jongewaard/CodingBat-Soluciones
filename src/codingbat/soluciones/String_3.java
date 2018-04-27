@@ -165,6 +165,7 @@ public class String_3 {
             if(p%2 == 1)
             {
                     i = p/2;    
+                    p = i + 1;
     
     
     
