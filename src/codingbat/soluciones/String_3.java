@@ -178,6 +178,8 @@ public class String_3 {
                     if(temp.equals(string.substring(p)))
                                 return temp; 
             }        
+            return "";
+    }
     
     
     
