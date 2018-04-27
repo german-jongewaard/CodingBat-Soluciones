@@ -176,6 +176,7 @@ public class String_3 {
             {
                     temp = string.substring(0, i);
                     if(temp.equals(string.substring(p)))
+                                return temp; 
     
     
     
