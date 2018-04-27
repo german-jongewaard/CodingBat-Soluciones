@@ -166,6 +166,9 @@ public class String_3 {
             {
                     i = p/2;    
                     p = i + 1;
+            }
+            else
+            {        
     
     
     
