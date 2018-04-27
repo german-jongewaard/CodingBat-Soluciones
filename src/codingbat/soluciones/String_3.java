@@ -163,6 +163,8 @@ public class String_3 {
             int p = string.length();
             int i;
             if(p%2 == 1)
+            {
+                    i = p/2;    
     
     
     
