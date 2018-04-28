@@ -186,6 +186,7 @@ public class String_3 {
     // characters at the very begining of the given string, and at the very end 
     // of the string in reverse order (possibly overlapping). For example, the 
     // string "abXYZba" has the mirror end "ab". 
+    public String mirrorEnds(String string)
     
     
     
