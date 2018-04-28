@@ -188,7 +188,8 @@ public class String_3 {
     // string "abXYZba" has the mirror end "ab". 
     public String mirrorEnds(String string)
     {
-            int len = string.length();        
+            int len = string.length();
+            int p = len - 1;
     
     
     
