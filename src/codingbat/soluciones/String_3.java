@@ -187,6 +187,8 @@ public class String_3 {
     // of the string in reverse order (possibly overlapping). For example, the 
     // string "abXYZba" has the mirror end "ab". 
     public String mirrorEnds(String string)
+    {
+            int len = string.length();        
     
     
     
