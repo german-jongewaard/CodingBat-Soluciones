@@ -190,6 +190,7 @@ public class String_3 {
     {
             int len = string.length();
             int p = len - 1;
+            for(int i = 0; i < len; i++, p--)
     
     
     
