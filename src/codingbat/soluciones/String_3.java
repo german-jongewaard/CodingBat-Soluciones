@@ -202,7 +202,8 @@ public class String_3 {
     // A block is a run of adjacent chars that are the same.
     public int maxBlock(String str)
     {
-                int stLen = str.length();        
+                int stLen = str.length();
+                int maxBlock = 0;
     
     
 }
