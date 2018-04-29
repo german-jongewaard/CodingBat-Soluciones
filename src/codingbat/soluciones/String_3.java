@@ -195,7 +195,7 @@ public class String_3 {
                     if(string.charAt(i) != string.charAt(p)) 
                             return string.substring(0, i);
             }
-    
+            return string;
     
     
 }
