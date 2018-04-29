@@ -204,6 +204,7 @@ public class String_3 {
     {
                 int stLen = str.length();
                 int maxBlock = 0;
+                int block = 1;
     
     
 }
