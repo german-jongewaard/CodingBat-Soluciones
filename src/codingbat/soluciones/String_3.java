@@ -217,7 +217,8 @@ public class String_3 {
                                     block++;
                         else
                         {
-                                    if(block > maxBlock)    
+                                    if(block > maxBlock)  
+                                            maxBlock = block;
     
     
 }
