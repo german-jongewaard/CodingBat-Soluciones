@@ -209,6 +209,7 @@ public class String_3 {
                 char current;
                 if(stLen == 0)
                         return 0;
+                ch = str.charAt(0);
     
     
 }
