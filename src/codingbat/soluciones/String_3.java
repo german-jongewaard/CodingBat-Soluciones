@@ -213,6 +213,7 @@ public class String_3 {
                 for(int i = 1; i < stLen; i++)
                 {
                         current = str.charAt(i);
+                        if(current == ch)
     
     
 }
