@@ -207,6 +207,7 @@ public class String_3 {
                 int block = 1;
                 char ch;
                 char current;
+                if(stLen == 0)
     
     
 }
