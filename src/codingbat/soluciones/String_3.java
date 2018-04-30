@@ -216,6 +216,8 @@ public class String_3 {
                         if(current == ch)
                                     block++;
                         else
+                        {
+                                    if(block > maxBlock)    
     
     
 }
