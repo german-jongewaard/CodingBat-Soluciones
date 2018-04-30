@@ -210,6 +210,7 @@ public class String_3 {
                 if(stLen == 0)
                         return 0;
                 ch = str.charAt(0);
+                for(int i = 1; i < stLen; i++)
     
     
 }
