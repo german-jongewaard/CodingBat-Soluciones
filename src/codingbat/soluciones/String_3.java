@@ -214,6 +214,7 @@ public class String_3 {
                 {
                         current = str.charAt(i);
                         if(current == ch)
+                                    block++;
     
     
 }
