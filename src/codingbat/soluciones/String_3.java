@@ -208,6 +208,7 @@ public class String_3 {
                 char ch;
                 char current;
                 if(stLen == 0)
+                        return 0;
     
     
 }
