@@ -224,6 +224,7 @@ public class String_3 {
                         }
                 }   
                 if(block > maxBlock)
+                                    maxBlock = block;
     
     
 }
