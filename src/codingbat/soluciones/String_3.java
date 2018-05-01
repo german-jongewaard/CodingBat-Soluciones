@@ -222,7 +222,8 @@ public class String_3 {
                                     block = 1;
                                     ch = current;
                         }
-                }            
+                }   
+                if(block > maxBlock)
     
     
 }
