@@ -221,6 +221,8 @@ public class String_3 {
                                             maxBlock = block;
                                     block = 1;
                                     ch = current;
+                        }
+                }            
     
     
 }
