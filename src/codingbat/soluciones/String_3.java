@@ -247,6 +247,8 @@ public class String_3 {
                             {
                                         start = i; 
                                         end = i+1;
+                            }
+                    }            
     
     
     
