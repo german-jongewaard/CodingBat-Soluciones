@@ -245,7 +245,8 @@ public class String_3 {
                     {
                             if(Character.isDigit(str.charAt(i)))
                             {
-                                        start = i;    
+                                        start = i; 
+                                        end = i+1;
     
     
     
