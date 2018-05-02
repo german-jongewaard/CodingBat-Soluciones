@@ -242,7 +242,8 @@ public class String_3 {
             for(int i = 0; i < len; i++)
             {
                     if(start == -1)
-            }    
+                    {
+                            if(Character.isDigit(str.charAt(i)))
     
     
     
