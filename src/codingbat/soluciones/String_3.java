@@ -237,6 +237,7 @@ public class String_3 {
     {
             int len = str.length();
             int start = - 1;
+            int end = 0;
     
     
     
