@@ -240,7 +240,9 @@ public class String_3 {
             int end = 0;
             int sum = 0;
             for(int i = 0; i < len; i++)
-            {    
+            {
+                    if(start == -1)
+            }    
     
     
     
