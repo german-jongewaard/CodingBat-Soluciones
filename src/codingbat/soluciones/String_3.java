@@ -234,7 +234,8 @@ public class String_3 {
     // of the chars '0', '1', .. '9'. Integer.parseInt(string) converts a 
     // string to an int.)
     public int sumNumbers(String str)
-    
+    {
+            int len = str.length();
     
     
     
