@@ -236,6 +236,7 @@ public class String_3 {
     public int sumNumbers(String str)
     {
             int len = str.length();
+            int start = - 1;
     
     
     
