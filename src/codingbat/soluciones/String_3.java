@@ -256,6 +256,7 @@ public class String_3 {
                             else                        
                             {
                                         sum += Integer.parseInt(str.substring(start,end));
+                                        start = -1;
     
     
     
