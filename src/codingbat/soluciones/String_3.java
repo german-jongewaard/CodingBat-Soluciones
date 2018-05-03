@@ -252,7 +252,7 @@ public class String_3 {
                     else
                     {    
                             if(Character.isDigit(str.charAt(i)))
-                                        end++
+                                        end++;
                             else                        
                             {
                                         sum += Integer.parseInt(str.substring(start,end));
@@ -263,7 +263,7 @@ public class String_3 {
             if(start != -1)      
                     sum += Integer.parseInt(str.substring(start,end));
             return sum;
-    
+    }
     
     
     
