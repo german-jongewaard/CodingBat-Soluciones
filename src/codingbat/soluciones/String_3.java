@@ -257,6 +257,7 @@ public class String_3 {
                             {
                                         sum += Integer.parseInt(str.substring(start,end));
                                         start = -1;
+                            }            
     
     
     
