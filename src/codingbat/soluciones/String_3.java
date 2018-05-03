@@ -254,7 +254,8 @@ public class String_3 {
                             if(Character.isDigit(str.charAt(i)))
                                         end++
                             else                        
-                    }
+                            {
+                                        sum += Integer.parseInt(str.substring(start,end));
     
     
     
