@@ -252,6 +252,7 @@ public class String_3 {
                     else
                     {    
                             if(Character.isDigit(str.charAt(i)))
+                                        end++
                     }
     
     
