@@ -262,6 +262,7 @@ public class String_3 {
             }
             if(start != -1)      
                     sum += Integer.parseInt(str.substring(start,end));
+            return sum;
     
     
     
