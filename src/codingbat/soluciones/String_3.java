@@ -272,5 +272,8 @@ public class String_3 {
     // "is" in "this" does not count. (Note: Character.isLetter(char) tests if 
     // a char is a letter.) 
     public String notReplace(String str)
+    {
+            int p = str.indexOf("is");        
+            
     
 }
