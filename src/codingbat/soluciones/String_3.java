@@ -275,5 +275,6 @@ public class String_3 {
     {
             int p = str.indexOf("is");        
             int check;
+            while(p != -1)
     
 }
