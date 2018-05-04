@@ -274,6 +274,6 @@ public class String_3 {
     public String notReplace(String str)
     {
             int p = str.indexOf("is");        
-            
+            int check;
     
 }
