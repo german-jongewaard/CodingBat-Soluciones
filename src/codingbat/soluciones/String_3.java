@@ -278,5 +278,6 @@ public class String_3 {
             while(p != -1)
             {
                 check = 0;    
+                if(p > 0)
     
 }
