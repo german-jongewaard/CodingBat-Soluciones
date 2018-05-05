@@ -283,6 +283,7 @@ public class String_3 {
                     if(!Character.isLetter(str.charAt(p-1))) 
                         check++;
                 }    
+                else
                             
     
 }
