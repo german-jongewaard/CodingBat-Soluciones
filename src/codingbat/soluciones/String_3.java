@@ -288,7 +288,8 @@ public class String_3 {
                 if(p < str.length()-2)
             {
                         if(!Character.isLetter(str.charAt(p+2)))
-            }
+                            check++;
+             
                 
             }        
                             
