@@ -284,6 +284,8 @@ public class String_3 {
                         check++;
                 }    
                 else    check++;
+                
+                if(p < str.length()-2)
                             
     
 }
