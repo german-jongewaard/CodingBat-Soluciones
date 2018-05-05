@@ -279,5 +279,7 @@ public class String_3 {
             {
                 check = 0;    
                 if(p > 0)
+                {
+                    if(!Character.isLetter(str.charAt(p-1)))    
     
 }
