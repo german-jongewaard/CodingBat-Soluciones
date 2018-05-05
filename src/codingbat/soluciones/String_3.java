@@ -289,6 +289,7 @@ public class String_3 {
             {
                         if(!Character.isLetter(str.charAt(p+2)))
                             check++;
+            }            
              
                 
             }        
