@@ -12,7 +12,7 @@ public class Array_1 {
     // or last element in the array.
     // The array will be length 1 or more. 
     public boolean firstLast6(int[] nums)
-    
+    { return (nums[0] == 6 
     
     
 }
