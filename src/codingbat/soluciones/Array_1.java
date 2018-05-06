@@ -15,4 +15,6 @@ public class Array_1 {
     { return (nums[0] == 6 || nums[nums.length-1] == 6); }
     
     
+    // Given an array of ints, return true if the array is length 1 or more, and the 
+    
 }
