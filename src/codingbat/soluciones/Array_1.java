@@ -24,6 +24,7 @@ public class Array_1 {
         return (nums.length >= 1 && nums[0] == nums[nums.length-1]);
     }
             
+    // Return an int array length 3 containing the first 3 digits of pi, {3, 1, 4}.
             
             
             
