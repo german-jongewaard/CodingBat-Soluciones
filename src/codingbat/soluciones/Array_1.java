@@ -21,6 +21,8 @@ public class Array_1 {
     // first element and the last element are the same. 
     public boolean sameFirstLast(int[] nums)
     {         
+        return (nums.length
+    }
             
             
             
