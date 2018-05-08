@@ -34,7 +34,7 @@ public class Array_1 {
     // first element or they have the same last element.
     // Both arrays will be length 1 or more.
     public boolean commonEnd(int[] a, int[] b)
-            
+    {         
             
             
             
