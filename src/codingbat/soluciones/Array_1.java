@@ -48,7 +48,7 @@ public class Array_1 {
     // "rotated left" so {1, 2, 3} yields {2, 3, 1}.        
     public int[] rotateLeft3(int[] nums)
     {
-        int[] rotated
+        int[] rotated = {nums[1],
     }        
             
             
