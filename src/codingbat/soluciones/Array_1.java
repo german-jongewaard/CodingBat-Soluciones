@@ -57,7 +57,7 @@ public class Array_1 {
     // so {1, 2, 3} becomes {3, 2, 1}.
     public int[] reverse3(int[] nums)
     {
-        int[] reversed =
+        int[] reversed = {nums[2], nums[1], nums[0]};
     }
             
             
