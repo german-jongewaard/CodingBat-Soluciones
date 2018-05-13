@@ -67,7 +67,8 @@ public class Array_1 {
     // the changed array.
     public int[] maxEnd3(int[] nums)
     {
-            int[] maxVal = new int[3];        
+            int[] maxVal = new int[3];   
+            maxVal[0] = nums[0];
             
             
             
