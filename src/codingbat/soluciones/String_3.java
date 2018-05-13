@@ -297,9 +297,5 @@ public class String_3 {
                 p = str.indexOf("is", p+2);
             } 
             return str;
-    }     
-                
-                 
-                            
-    
+    }      
 }
