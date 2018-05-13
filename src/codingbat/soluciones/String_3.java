@@ -293,7 +293,7 @@ public class String_3 {
                 else
                     check++; 
                 if(check == 2)
-                        str = str.substring(0, p) + "is not"
+                        str = str.substring(0, p) + "is not" + str.substring(p+2);
              
                 
             }        
