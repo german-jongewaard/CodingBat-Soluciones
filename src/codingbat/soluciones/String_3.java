@@ -296,6 +296,7 @@ public class String_3 {
                         str = str.substring(0, p) + "is not" + str.substring(p+2);
                 p = str.indexOf("is", p+2);
             } 
+            return str;
              
                 
             }        
