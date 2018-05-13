@@ -70,6 +70,7 @@ public class Array_1 {
             int[] maxVal = new int[3];   
             maxVal[0] = nums[0];
             if(nums[2] >= maxVal[0])
+                    maxVal[0] = nums[2];
             
             
             
