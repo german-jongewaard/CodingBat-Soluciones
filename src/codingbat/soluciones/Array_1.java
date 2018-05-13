@@ -65,6 +65,7 @@ public class Array_1 {
     // the first and last elements
     // in the array, and set all the other elements to be that value. Return 
     // the changed array.
+    public int[] maxEnd3(int[] nums)
             
             
             
