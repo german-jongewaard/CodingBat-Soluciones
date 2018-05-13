@@ -294,6 +294,7 @@ public class String_3 {
                     check++; 
                 if(check == 2)
                         str = str.substring(0, p) + "is not" + str.substring(p+2);
+                p
              
                 
             }        
