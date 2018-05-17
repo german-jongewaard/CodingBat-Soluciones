@@ -84,7 +84,7 @@ public class Array_1 {
     {
         if(nums.length >= 2)
                 return (nums[0] + nums[1]);
-        
+        if(nums.length == 1)
             
             
 }
