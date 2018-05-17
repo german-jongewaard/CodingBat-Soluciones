@@ -307,6 +307,7 @@ public class Array_1 {
         return comb;    
     }
     
-    // Given 2 int arrays, a and b, of any length, return a new array with the first element of each array.
+    // Given 2 int arrays, a and b, of any length, return a new array with 
+    // the first element of each array.
 
 }
