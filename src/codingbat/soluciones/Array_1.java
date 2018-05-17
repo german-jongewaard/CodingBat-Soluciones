@@ -75,6 +75,7 @@ public class Array_1 {
             maxVal[2] = maxVal[0];
             return maxVal;
             
+    }
             
             
 }
