@@ -73,6 +73,7 @@ public class Array_1 {
                     maxVal[0] = nums[2];
             maxVal[1] = maxVal[0];
             maxVal[2] = maxVal[0];
+            return maxVal;
             
             
             
