@@ -104,6 +104,8 @@ public class Array_1 {
         int[] temp = {nums[0], nums[nums.length-1]};
         return temp;
     }
+    
+    // Given an int array length 2, return true if it contains a 2 or a 3.
             
             
 }
