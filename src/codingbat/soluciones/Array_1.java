@@ -95,8 +95,10 @@ public class Array_1 {
     {
         int[] mids = {a[1], b[1]};
         return mids;
-
     }        
+    
+    // Given an array of ints, return a new array length 2 containing the first and last
+    // elements from the original array. The original array will be length 1 or more.
             
             
 }
