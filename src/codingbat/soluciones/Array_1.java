@@ -138,6 +138,7 @@ public class Array_1 {
     // The array will be length 0, 1, or 2.
     public boolean double23(int[] nums)
     {
-            if(nums.length == 2)        
+            if(nums.length == 2)  
+            {    
             
 }
