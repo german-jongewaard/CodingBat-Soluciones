@@ -129,6 +129,7 @@ public class Array_1 {
     public int[] makeLast(int[] nums)
     {       
             int len = nums.length*2;
+            int[] dubsArr = new int[len];
         
     } 
             
