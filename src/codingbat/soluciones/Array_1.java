@@ -141,6 +141,7 @@ public class Array_1 {
             if(nums.length == 2)  
             {
                 if(nums[0] == 2 && nums[1] == 2)
+                        return true;
             }    
             
 }
