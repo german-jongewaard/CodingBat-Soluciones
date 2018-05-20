@@ -127,6 +127,9 @@ public class Array_1 {
     // array will be length 1 or more.
     // Note: by default, a new int array contains all 0's.
     public int[] makeLast(int[] nums)
-    {        
+    {       
+            int len = nums.length*2;
+        
+    } 
             
 }
