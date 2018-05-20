@@ -139,6 +139,8 @@ public class Array_1 {
     public boolean double23(int[] nums)
     {
             if(nums.length == 2)  
-            {    
+            {
+                if(nums[0] == 2 && nums[1] == 2)
+            }    
             
 }
