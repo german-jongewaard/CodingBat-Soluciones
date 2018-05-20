@@ -133,5 +133,8 @@ public class Array_1 {
             dubsArr[len-1] = nums[nums.length-1];
             return dubsArr;        
     } 
+    
+    // Given an int array, return true if the array contains 2 twice, or 3 twice.
+    // The array will be length 0, 1, or 2. 
             
 }
