@@ -151,5 +151,6 @@ public class Array_1 {
     // immediately followed by a 3,
     // set the 3 element to 0. Return the changed array.
     public int[] fix23(int[] nums)
-            
+    {
+            int[] fxArr = {nums[0], nums[1], nums[2]};        
 }
