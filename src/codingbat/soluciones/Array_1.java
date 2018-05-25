@@ -145,5 +145,6 @@ public class Array_1 {
                 return (nums[0] == 3 && nums[1] == 3);
             }    
             return false;
+    }        
             
 }
