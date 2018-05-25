@@ -153,4 +153,6 @@ public class Array_1 {
     public int[] fix23(int[] nums)
     {
             int[] fxArr = {nums[0], nums[1], nums[2]};        
+                    if(nums[0] == 2 && nums[1] == 3)
+    }
 }
