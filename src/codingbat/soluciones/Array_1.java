@@ -157,5 +157,6 @@ public class Array_1 {
                                     fxArr[1] = 0;
                     if(nums[1] == 2 && nums[2] == 3)
                                     fxArr[2] = 0;
+                    return fxArr;
     }
 }
