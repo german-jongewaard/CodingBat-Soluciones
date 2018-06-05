@@ -160,3 +160,5 @@ public class Array_1 {
                     return fxArr;
     }
 }
+
+// Start with 2 int arrays, a and b, of any length. // Return how many of the arrays have 1 as their first element.
