@@ -170,4 +170,5 @@ public int start1(int[] a, int[] b)
             ones += 1;
     if(b.length >= 1 && b[0] == 1)
             ones += 1;
-return ones;
+    return ones;
+}
