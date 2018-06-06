@@ -182,5 +182,6 @@ public class Array_1 {
 
         int sum = a[0]+a[1]-b[0]-b[1];
         if(sum >= 0)
+                return a;
 
 }
