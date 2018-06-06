@@ -159,16 +159,21 @@ public class Array_1 {
                                     fxArr[2] = 0;
                     return fxArr;
     }
-}
+
 
 // Start with 2 int arrays, a and b, of any length. 
 // Return how many of the arrays have 1 as their first element.
-public int start1(int[] a, int[] b)
-{
-    int ones = 0;
-    if(a.length >= 1 && a[0] == 1)
-            ones += 1;
-    if(b.length >= 1 && b[0] == 1)
-            ones += 1;
-    return ones;
+    public int start1(int[] a, int[] b)
+    {
+        int ones = 0;
+        if(a.length >= 1 && a[0] == 1)
+                ones += 1;
+        if(b.length >= 1 && b[0] == 1)
+                ones += 1;
+        return ones;
+    }
+
+
+
+
 }
