@@ -161,8 +161,8 @@ public class Array_1 {
     }
 
 
-// Start with 2 int arrays, a and b, of any length. 
-// Return how many of the arrays have 1 as their first element.
+    // Start with 2 int arrays, a and b, of any length. 
+    // Return how many of the arrays have 1 as their first element.
     public int start1(int[] a, int[] b)
     {
         int ones = 0;
@@ -177,7 +177,8 @@ public class Array_1 {
     // Consider the sum of the values in each array. Return 
     // the array which has the largest sum.
     // In event of a tie, return a.
-
+    public int[] biggerTwo(int[] a, int[] b)
+    {
 
 
 
