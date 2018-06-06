@@ -172,6 +172,8 @@ public class Array_1 {
                 ones += 1;
         return ones;
     }
+    
+    // Start with 2 int arrays, a and b, each length 2.
 
 
 
