@@ -174,7 +174,8 @@ public class Array_1 {
     }
     
     // Start with 2 int arrays, a and b, each length 2.
-    // Consider the sum of the values in each array. Return the array which has the largest sum.
+    // Consider the sum of the values in each array. Return 
+    // the array which has the largest sum.
 
 
 
