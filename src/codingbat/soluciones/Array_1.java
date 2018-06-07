@@ -193,5 +193,6 @@ public class Array_1 {
     public int[] makeMiddle(int[] nums)
     {
         int[] midArr = new int[2];
+        int half = nums.length/2;
 
 }
