@@ -191,5 +191,7 @@ public class Array_1 {
     // two elements from the original array. The original
     // array will be length 2 or more.
     public int[] makeMiddle(int[] nums)
+    {
+        int[] midArr = new int[2];
 
 }
