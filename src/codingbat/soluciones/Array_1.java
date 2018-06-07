@@ -196,5 +196,7 @@ public class Array_1 {
         int half = nums.length/2;
         midArr[0] = nums[half-1];
         midArr[1] = nums[half];
+        return midArr;
+    }
 
 }
