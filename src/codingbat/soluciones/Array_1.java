@@ -184,6 +184,8 @@ public class Array_1 {
         if(sum >= 0)
                 return a;
         return b;
-}
+    }
+    
+    // Given an array of ints of even length, return a new array length 2 containing the middle
 
 }
