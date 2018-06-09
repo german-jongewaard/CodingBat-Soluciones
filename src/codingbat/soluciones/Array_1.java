@@ -223,6 +223,7 @@ public class Array_1 {
     public int[] midThree(int[] nums)
     {
         int[] halfArr = new int[3];
+        int half = nums.length/2;
     }
     
 
