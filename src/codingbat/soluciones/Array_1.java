@@ -226,6 +226,7 @@ public class Array_1 {
         int half = nums.length/2;
         halfArr[0] = nums[half-1];
         halfArr[1] = nums[half];
+        halfArr[2] = nums[half+1];
     }
     
 
