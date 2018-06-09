@@ -222,6 +222,8 @@ public class Array_1 {
     // the middle of the array. The array length will be at least 3.
     public int[] midThree(int[] nums)
     {
+        int[] halfArr = new int[3];
+    }
     
 
 }
