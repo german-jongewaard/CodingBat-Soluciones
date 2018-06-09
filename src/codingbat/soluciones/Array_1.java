@@ -217,7 +217,8 @@ public class Array_1 {
         return nums;
     }
     
-    //Given an array of ints of odd length, return a new array length 3 containing the elements from
+    // Given an array of ints of odd length, return a new array 
+    // length 3 containing the elements from
     
 
 }
