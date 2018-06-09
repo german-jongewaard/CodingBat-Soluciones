@@ -224,6 +224,7 @@ public class Array_1 {
     {
         int[] halfArr = new int[3];
         int half = nums.length/2;
+        halfArr[0] = nums[half-1];
     }
     
 
