@@ -230,5 +230,7 @@ public class Array_1 {
         return halfArr;
     }
     
+    // Given an array of ints of odd length, look at the first, last, and middle values in
+    
 
 }
