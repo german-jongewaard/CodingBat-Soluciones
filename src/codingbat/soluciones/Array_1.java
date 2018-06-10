@@ -236,5 +236,6 @@ public class Array_1 {
     {
         int max = nums[0];
         if(max <= nums[nums.length-1])
+            max = nums[nums.length-1];
 
 }
