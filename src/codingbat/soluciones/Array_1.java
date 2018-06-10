@@ -262,6 +262,7 @@ public class Array_1 {
         else   
             front = new int[0];
         return front;
+        
     }
 
 }
