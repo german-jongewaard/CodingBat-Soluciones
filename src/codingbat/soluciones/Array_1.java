@@ -235,5 +235,6 @@ public class Array_1 {
     public int maxTriple(int[] nums)
     {
         int max = nums[0];
+        if(max <= nums[nums.length-1])
 
 }
