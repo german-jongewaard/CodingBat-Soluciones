@@ -261,8 +261,9 @@ public class Array_1 {
         }
         else   
             front = new int[0];
-        return front;
-        
+        return front; 
     }
+    
+    // We'll say that a 1 immediately followed by a 3 in an array is an "unlucky" 1.
 
 }
