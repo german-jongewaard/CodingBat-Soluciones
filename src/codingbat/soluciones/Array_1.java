@@ -254,6 +254,7 @@ public class Array_1 {
             front[0] = nums[0];
             front[1] = nums[1];
         }
+        else if(nums.length == 1)
     }
 
 }
