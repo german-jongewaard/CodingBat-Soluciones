@@ -247,5 +247,7 @@ public class Array_1 {
     // If the array is smaller than length 2, use whatever elements are present.
     public int[] frontPiece(int[] nums)
     {
+        int[] front;
+    }
 
 }
