@@ -258,6 +258,8 @@ public class Array_1 {
         {
             front = new int[1];
             front[0] = nums[0];
-    }
+        }
+        else   
+            front = new int[0];
 
 }
