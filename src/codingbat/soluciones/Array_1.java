@@ -269,5 +269,7 @@ public class Array_1 {
     // last 2 positions in the array.
     public boolean unlucky1(int[] nums)
     {
+        int lastP = nums.length-1;
+    }
 
 }
