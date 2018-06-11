@@ -250,6 +250,9 @@ public class Array_1 {
         int[] front;
         if(nums.length >= 2)
         {
+            front = new int[2];
+            front[0] = nums[0];
+        }
     }
 
 }
