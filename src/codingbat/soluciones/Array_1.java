@@ -255,6 +255,8 @@ public class Array_1 {
             front[1] = nums[1];
         }
         else if(nums.length == 1)
+        {
+            front = new int[1];
     }
 
 }
