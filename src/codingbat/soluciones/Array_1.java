@@ -248,6 +248,8 @@ public class Array_1 {
     public int[] frontPiece(int[] nums)
     {
         int[] front;
+        if(nums.length >= 2)
+        {
     }
 
 }
