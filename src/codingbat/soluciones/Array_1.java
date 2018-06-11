@@ -270,6 +270,9 @@ public class Array_1 {
     public boolean unlucky1(int[] nums)
     {
         int lastP = nums.length-1;
+        if(lastP >= 2)
+        {
+            if((nums[0] == 1 && nums[1] == 3) || (nums[1] == 1 && nums[2] == 3))    
     }
 
 }
