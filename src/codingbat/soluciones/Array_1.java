@@ -288,5 +288,7 @@ public class Array_1 {
     // elements available between the 2 arrays.
     public int[] make2(int[] a, int[] b)
     {
+        int[] comb = new int[2];
+    }
 
 }
