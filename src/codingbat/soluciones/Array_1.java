@@ -286,5 +286,7 @@ public class Array_1 {
     // the elements from a followed by the elements from b.
     // The arrays may be any length, including 0, but there will be 2 or more
     // elements available between the 2 arrays.
+    public int[] make2(int[] a, int[] b)
+    {
 
 }
