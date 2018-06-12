@@ -280,5 +280,7 @@ public class Array_1 {
                 return ((nums[0] == 1 && nums[1] == 3) || (nums[1] == 1 && nums[2] == 3));
             return false;
     }
+    
+    // Given 2 int arrays, a and b, return a new array length 2 containing, as much as will fit,
 
 }
