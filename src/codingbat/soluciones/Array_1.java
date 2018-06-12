@@ -283,5 +283,6 @@ public class Array_1 {
     
     // Given 2 int arrays, a and b, return a new array length 2 containing, 
     // as much as will fit,
+    // the elements from a followed by the elements from b.
 
 }
