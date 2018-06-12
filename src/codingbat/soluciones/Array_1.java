@@ -291,6 +291,6 @@ public class Array_1 {
         int[] comb = new int[2];
         if(a.length >= 2)
         {
-    }
+            comb[0] = a[0];
 
 }
