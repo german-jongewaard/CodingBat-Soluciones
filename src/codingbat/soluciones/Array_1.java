@@ -289,6 +289,8 @@ public class Array_1 {
     public int[] make2(int[] a, int[] b)
     {
         int[] comb = new int[2];
+        if(a.length >= 2)
+        {
     }
 
 }
