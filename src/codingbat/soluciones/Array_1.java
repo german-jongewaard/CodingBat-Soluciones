@@ -302,6 +302,7 @@ public class Array_1 {
         else
         {
             comb[0] = b[0];
+            comb[1] = b[1]; 
         }    
     }
 
