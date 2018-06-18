@@ -296,6 +296,8 @@ public class Array_1 {
         }
         else if(a.length == 1)
         {
+            comb[0] = a[0];
+        }
     }
 
 }
