@@ -299,6 +299,7 @@ public class Array_1 {
             comb[0] = a[0];
             comb[1] = b[0];
         }
+        else
     }
 
 }
