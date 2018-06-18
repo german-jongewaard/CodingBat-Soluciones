@@ -292,6 +292,7 @@ public class Array_1 {
         if(a.length >= 2)
         {
             comb[0] = a[0];
+            comb[1] = a[1];
         }
     }
 
