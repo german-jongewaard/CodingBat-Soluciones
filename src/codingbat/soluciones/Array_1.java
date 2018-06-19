@@ -312,7 +312,7 @@ public class Array_1 {
     // If either array is length 0, ignore that array.
     public int[] front11(int[] a, int[] b)
     {
-        
+        int[] front;
         
         
         
