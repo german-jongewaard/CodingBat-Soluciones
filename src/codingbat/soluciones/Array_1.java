@@ -319,7 +319,7 @@ public class Array_1 {
             {
                 front = new int[2];    
                 front[0] = a[0];
-        
+                front[1] = b[0];
         
         
         
