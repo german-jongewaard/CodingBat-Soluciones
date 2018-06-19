@@ -315,6 +315,8 @@ public class Array_1 {
         int[] front;
         if(a.length >= 1)
         {
+            if(b.length >= 1) 
+                
         
         
         
