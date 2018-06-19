@@ -314,7 +314,7 @@ public class Array_1 {
     {
         int[] front;
         if(a.length >= 1)
-        
+        {
         
         
         
