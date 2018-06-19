@@ -316,7 +316,8 @@ public class Array_1 {
         if(a.length >= 1)
         {
             if(b.length >= 1) 
-                
+            {
+                front = new int[2];    
         
         
         
