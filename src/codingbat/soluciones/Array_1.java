@@ -311,6 +311,17 @@ public class Array_1 {
     // the first element of each array.
     // If either array is length 0, ignore that array.
     public int[] front11(int[] a, int[] b)
-    {        
+    {
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+              
 
 }
