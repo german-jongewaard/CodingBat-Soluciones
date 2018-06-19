@@ -313,6 +313,7 @@ public class Array_1 {
     public int[] front11(int[] a, int[] b)
     {
         int[] front;
+        if(a.length >= 1)
         
         
         
