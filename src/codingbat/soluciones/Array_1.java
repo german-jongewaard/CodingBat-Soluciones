@@ -318,7 +318,7 @@ public class Array_1 {
             if(b.length >= 1) 
             {
                 front = new int[2];    
-        
+                front[0] = a[0];
         
         
         
