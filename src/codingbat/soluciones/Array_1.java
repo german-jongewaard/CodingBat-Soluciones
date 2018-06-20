@@ -329,6 +329,8 @@ public class Array_1 {
         }    
         else if(b.length >= 1)
         {
+            front = new int[1];
+        }
         
         
         
