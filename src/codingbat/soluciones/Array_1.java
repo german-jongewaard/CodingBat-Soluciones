@@ -333,6 +333,8 @@ public class Array_1 {
             front[0] = b[0];
         }
         else
+            
+            front = new int[0];
         
         
               
