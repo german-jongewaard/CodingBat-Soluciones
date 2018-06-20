@@ -330,6 +330,7 @@ public class Array_1 {
         else if(b.length >= 1)
         {
             front = new int[1];
+            front[0] = b[0];
         }
         
         
