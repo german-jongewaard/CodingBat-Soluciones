@@ -322,6 +322,8 @@ public class Array_1 {
                 front[1] = b[0];
             }
             else
+            {
+                  
         
         
         
