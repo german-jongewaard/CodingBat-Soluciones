@@ -327,7 +327,7 @@ public class Array_1 {
                 front[0] = a[0];
             }
         }    
-        
+        else if(b.length >= 1)
         
         
         
