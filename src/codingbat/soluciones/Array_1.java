@@ -325,7 +325,7 @@ public class Array_1 {
             {
                 front = new int[1];
                 front[0] = a[0];
-        
+            }    
         
         
         
