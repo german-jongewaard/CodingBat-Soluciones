@@ -12,6 +12,7 @@ public class Array_2 {
     public int countEvens(int[] nums)
     {
         int count = 0;
+        for(int i = 0; i < nums.length; i++)
             
             
             
