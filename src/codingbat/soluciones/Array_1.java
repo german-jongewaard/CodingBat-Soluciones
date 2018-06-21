@@ -336,6 +336,7 @@ public class Array_1 {
             
             front = new int[0];
         return front;
+    }    
         
         
               
