@@ -17,6 +17,7 @@ public class Array_2 {
             if(nums[i] % 2 == 0)
                 count++;
         }    
+        return count;
             
             
 }   
