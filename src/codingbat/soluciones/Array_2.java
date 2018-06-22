@@ -27,6 +27,7 @@ public class Array_2 {
     public int bigDiff(int[] nums)
     {
         int max = nums[0];        
+        int min = nums[0];
             
 }   
  
