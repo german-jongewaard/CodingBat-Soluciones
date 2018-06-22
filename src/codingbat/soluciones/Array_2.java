@@ -18,6 +18,7 @@ public class Array_2 {
                 count++;
         }    
         return count;
+    }    
             
             
 }   
