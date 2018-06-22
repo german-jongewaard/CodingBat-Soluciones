@@ -24,7 +24,9 @@ public class Array_2 {
     // the largest and smallest values in the array. Note: the built-in 
     // Math.min(v1, v2) and Math.max(v1, v2) methods return the smaller 
     // or larger of two values.
-    public int bigDiff(int[] nums)        
+    public int bigDiff(int[] nums)
+    {
+        int max = nums[0];        
             
 }   
  
