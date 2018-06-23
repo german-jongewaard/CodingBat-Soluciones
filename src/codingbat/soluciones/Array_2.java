@@ -36,6 +36,8 @@ public class Array_2 {
                 min = nums[i];
         }  
         return (max-min);
-    }    
+    }
+
+// Return the "centered" average of an array of ints, which we'll say is the mean average of the values, except not counting the largest and smallest values in the array. Use int division to produce the final average. You may assume that the array is length 3 or more.    
 }   
  
