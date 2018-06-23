@@ -32,6 +32,7 @@ public class Array_2 {
         {
             if(nums[i] > max)
                 max = nums[i];
+            else if(nums[i] < min)
         }    
 }   
  
