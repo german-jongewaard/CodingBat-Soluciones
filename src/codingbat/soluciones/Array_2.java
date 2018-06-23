@@ -36,5 +36,6 @@ public class Array_2 {
                 min = nums[i];
         }  
         return (max-min);
+    }    
 }   
  
