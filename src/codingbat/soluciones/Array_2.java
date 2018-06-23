@@ -34,6 +34,7 @@ public class Array_2 {
                 max = nums[i];
             else if(nums[i] < min)
                 min = nums[i];
-        }    
+        }  
+        return (max-min);
 }   
  
