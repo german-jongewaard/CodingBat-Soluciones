@@ -43,7 +43,8 @@ public class Array_2 {
     // values in the array. Use int division to produce the final average. You 
     // may assume that the array is length 3 or more.   
     public int centeredAverage(int[] nums)
-    
+    {
+        int max = nums[0];
     
     
     
