@@ -49,7 +49,7 @@ public class Array_2 {
             int sum = nums[0];
             for(int i = 1; i < nums.length; i++)
             {
-                
+                    sum += nums[i];
             }    
     
     
