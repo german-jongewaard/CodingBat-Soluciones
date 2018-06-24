@@ -55,7 +55,7 @@ public class Array_2 {
                     else if(nums[i] < min)
                         min = nums[i];
             }    
-    
+            return (sum-max-min) / (nums.length - 2);
     
 }   
  
