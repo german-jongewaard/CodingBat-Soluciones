@@ -52,6 +52,7 @@ public class Array_2 {
                     sum += nums[i];
                     if(nums[i] > max)
                         max = nums[i];
+                    else if(nums[i] < min)
             }    
     
     
