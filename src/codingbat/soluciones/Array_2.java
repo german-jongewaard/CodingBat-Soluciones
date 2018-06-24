@@ -46,6 +46,7 @@ public class Array_2 {
     {
         int max = nums[0];
             int min = nums[0];
+            int sum = nums[0];
     
     
     
