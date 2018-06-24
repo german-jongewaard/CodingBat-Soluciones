@@ -56,6 +56,7 @@ public class Array_2 {
                         min = nums[i];
             }    
             return (sum-max-min) / (nums.length - 2);
+    }        
     
 }   
  
