@@ -70,6 +70,8 @@ public class Array_2 {
                     i++;
             else
                     sum += nums[i];
-    
+        }
+	return sum;
+    }    
 }   
  
