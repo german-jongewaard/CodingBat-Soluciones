@@ -62,6 +62,8 @@ public class Array_2 {
     // Except the number 13 is very unlucky, so it does not count and numbers 
     // that come immediately after a 13 also do not count.
     public int sum13(int[] nums) 
+    {
+        int sum = 0;        
     
 }   
  
