@@ -78,7 +78,8 @@ public class Array_2 {
     // numbers starting with a 6 and extending to the next 7 (every 6 will be 
     // followed by at least one 7). Return 0 for no numbers. 
     public int sum67(int[] nums){
-        int sum = 0;
+                
+                int sum = 0;
     }
             
             
