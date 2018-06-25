@@ -89,6 +89,7 @@ public class Array_2 {
                                         sixMode = false;
                         }
                         else if(nums[i] == 6)
+                               sixMode = true;     
             
             
 }   
