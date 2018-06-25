@@ -81,6 +81,7 @@ public class Array_2 {
                 
                 int sum = 0;
                 boolean sixMode = false;
+                for(int i = 0; i < nums.length; i++)
     }
             
             
