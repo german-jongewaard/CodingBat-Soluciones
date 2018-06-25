@@ -80,6 +80,7 @@ public class Array_2 {
     public int sum67(int[] nums){
                 
                 int sum = 0;
+                boolean sixMode = false;
     }
             
             
