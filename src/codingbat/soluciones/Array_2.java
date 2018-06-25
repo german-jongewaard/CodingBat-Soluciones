@@ -68,6 +68,8 @@ public class Array_2 {
         {
             if(nums[i] == 13)    
                     i++;
+            else
+                    sum += nums[i];
     
 }   
  
