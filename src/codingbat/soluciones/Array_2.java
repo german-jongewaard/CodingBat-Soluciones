@@ -84,6 +84,8 @@ public class Array_2 {
                 for(int i = 0; i < nums.length; i++)
                 {
                         if(sixMode)    
+                        {
+                               if(nums[i] == 7)    
     }
             
             
