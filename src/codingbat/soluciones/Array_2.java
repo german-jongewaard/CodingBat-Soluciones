@@ -87,7 +87,7 @@ public class Array_2 {
                         {
                                if(nums[i] == 7)  
                                         sixMode = false;
-    }
+                        }
             
             
 }   
