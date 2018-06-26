@@ -94,6 +94,7 @@ public class Array_2 {
                                 sum += nums[i];
                 }        
                 return sum;
+    }
             
             
 }   
