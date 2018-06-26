@@ -93,6 +93,7 @@ public class Array_2 {
                         else
                                 sum += nums[i];
                 }        
+                return sum;
             
             
 }   
