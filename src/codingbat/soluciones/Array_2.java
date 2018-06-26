@@ -92,6 +92,7 @@ public class Array_2 {
                                 sixMode = true;
                         else
                                 sum += nums[i];
+                }        
             
             
 }   
