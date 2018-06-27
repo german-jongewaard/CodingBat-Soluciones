@@ -117,6 +117,8 @@ public class Array_2 {
             {
                     if(nums[i] == 1 || nums[i] == 3)  
                                 return false;
+            }
+            return true;        
                     
     
     
