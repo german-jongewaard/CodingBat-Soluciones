@@ -132,6 +132,7 @@ public class Array_2 {
                             sum += 2;
         }
         return (sum == 8);        
+    }    
     
     
 }   
