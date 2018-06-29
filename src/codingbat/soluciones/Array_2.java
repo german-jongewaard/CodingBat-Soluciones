@@ -140,7 +140,8 @@ public class Array_2 {
     {
             int balance = 0;      
             for(int i = 0; i < nums.length; i++)
-    
+            {
+                    if(nums[i] == 1)    
     
     
     
