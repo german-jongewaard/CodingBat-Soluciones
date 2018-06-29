@@ -138,7 +138,8 @@ public class Array_2 {
     // greater than the number of 4's
     public boolean more14(int[] nums)
     {
-            int balance = 0;        
+            int balance = 0;      
+            for(int i = 0; i < nums.length; i++)
     
     
     
