@@ -146,7 +146,8 @@ public class Array_2 {
                     else if(nums[i] == 4)
                                 balance--;
             }
-            return (balance > 0);        
+            return (balance > 0);  
+    }        
     
     
     
