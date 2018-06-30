@@ -144,6 +144,7 @@ public class Array_2 {
                     if(nums[i] == 1)    
                                 balance++;
                     else if(nums[i] == 4)
+                                balance--;
     
     
     
