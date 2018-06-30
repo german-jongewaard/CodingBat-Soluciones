@@ -156,7 +156,8 @@ public class Array_2 {
             {
                     if(nums[i] != 1 && nums[i] != 4) 
                                 return false;
-    
+            }
+            return true;        
     
     
     
