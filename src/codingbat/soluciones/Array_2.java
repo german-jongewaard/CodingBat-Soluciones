@@ -149,6 +149,7 @@ public class Array_2 {
             return (balance > 0);  
     }        
     
+    // Given an array of ints, return true if every element is a 1 or a 4.
     
     
 }   
