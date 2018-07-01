@@ -171,7 +171,8 @@ public class Array_2 {
                         else if(nums[i] == 4)            
                                     noFour = false;
     
-    
+            }	
+            return (noOne || noFour);            
     
     
     
