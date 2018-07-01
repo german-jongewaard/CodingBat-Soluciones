@@ -164,6 +164,7 @@ public class Array_2 {
     public boolean no14(int[] nums)
     {
             boolean noOne = true, noFour = true;
+            for(int i = 0; i < nums.length && (noOne || noFour); i++)
     
     
     
