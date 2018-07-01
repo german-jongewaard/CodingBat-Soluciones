@@ -166,7 +166,8 @@ public class Array_2 {
             boolean noOne = true, noFour = true;
             for(int i = 0; i < nums.length && (noOne || noFour); i++)
             {
-                        if(nums[i] == 1)    
+                        if(nums[i] == 1)  
+                                    noOne = false;
     
     
     
