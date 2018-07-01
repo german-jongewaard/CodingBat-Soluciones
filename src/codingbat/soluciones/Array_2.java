@@ -168,7 +168,7 @@ public class Array_2 {
             {
                         if(nums[i] == 1)  
                                     noOne = false;
-    
+                        else if(nums[i] == 4)            
     
     
     
