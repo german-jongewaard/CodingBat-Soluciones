@@ -185,7 +185,8 @@ public class Array_2 {
                     if(nums[i] != val && nums[i+1] != val)
                                 return false;
     
-    
+            }  
+            return true;        
     
     
     
