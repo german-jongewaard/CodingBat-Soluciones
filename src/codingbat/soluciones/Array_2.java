@@ -180,7 +180,7 @@ public class Array_2 {
     // is that value. Return true if the given value is everywhere in the array.
     public boolean isEverywhere(int[] nums, int val)
     {
-    
+            for(int i = 0; i < nums.length-1; i++)
     
     
     
