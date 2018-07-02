@@ -182,7 +182,8 @@ public class Array_2 {
     {
             for(int i = 0; i < nums.length-1; i++)
             {
-                    if(nums[i] != val && nums[i+1] != val)    
+                    if(nums[i] != val && nums[i+1] != val)
+                                return false;
     
     
     
