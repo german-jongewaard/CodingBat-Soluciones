@@ -194,7 +194,7 @@ public class Array_2 {
     public boolean either24(int[] nums){
         
         int no2pair = 1, no4pair = 1;
-        
+        for(int i = 0; i < nums.length - 1 && (no2pair + no4pair != 0); i++)
     }
 }   
  
