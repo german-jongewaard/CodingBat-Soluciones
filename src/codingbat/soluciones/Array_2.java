@@ -193,6 +193,8 @@ public class Array_2 {
     // to a 2 or a 4 next to a 4, but not both.
     public boolean either24(int[] nums){
         
+        int no2pair = 1, no4pair = 1;
+        
     }
 }   
  
