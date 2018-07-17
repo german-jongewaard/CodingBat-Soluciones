@@ -196,6 +196,7 @@ public class Array_2 {
         int no2pair = 1, no4pair = 1;
         for(int i = 0; i < nums.length - 1 && (no2pair + no4pair != 0); i++){
             if(nums[i] == 2 && nums[i+1] == 2)
+                no2pair = 0;
         }
     }
 }   
