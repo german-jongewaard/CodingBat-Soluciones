@@ -198,6 +198,7 @@ public class Array_2 {
             if(nums[i] == 2 && nums[i+1] == 2)
                 no2pair = 0;
             else if(nums[i] == 4 && nums[i+1] == 4)
+                no4pair = 0;
         }
     }
 }   
