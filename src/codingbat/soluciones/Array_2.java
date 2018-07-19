@@ -207,6 +207,7 @@ public class Array_2 {
     //count of the number of times that the two elements differ by 2 or less, but are not equal. 
     public int matchUp(int[] nums1, int[] nums2){
         int count = 0;
+        int diff;
     }
     
     
