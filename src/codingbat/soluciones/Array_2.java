@@ -212,7 +212,9 @@ public class Array_2 {
             diff = Math.abs(nums1[i] - nums2[i]);
             if(diff <= 2 && diff != 0)
                 count++; 
-        }
+            }
+        return count;
+        
     }
     
     
