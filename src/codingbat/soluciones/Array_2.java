@@ -222,7 +222,9 @@ public class Array_2 {
     public boolean has77(int[] nums){
         
         for(int i = 0; i < nums.length - 1; i++){
-            
+            if(nums[i] == 7){
+                
+            }
         }
             
     }
