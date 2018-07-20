@@ -213,9 +213,10 @@ public class Array_2 {
             if(diff <= 2 && diff != 0)
                 count++; 
             }
-        return count;
-        
+        return count;        
     }
+    
+    // Given an array of ints, return true if the array contains two 7's next to each other, or there are two 7's separated by one element, such as with {7, 1, 7}.
     
     
     
