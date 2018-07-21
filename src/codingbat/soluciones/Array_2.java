@@ -246,6 +246,7 @@ public class Array_2 {
                     return true;
 
                 } else if(nums[i] == 1)
+                    oneSpotted = true;
 
         }
     }
