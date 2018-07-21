@@ -240,7 +240,12 @@ public class Array_2 {
         boolean oneSpotted = false;
         for(int i = 0; i < nums.length; i++){
             
-            if(oneSpotted)
+            if(oneSpotted){
+                
+                if(nums[i] == 2)
+return true;
+
+                }
 
         }
     }
