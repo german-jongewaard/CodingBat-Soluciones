@@ -243,9 +243,9 @@ public class Array_2 {
             if(oneSpotted){
                 
                 if(nums[i] == 2)
-return true;
+                    return true;
 
-                }
+                } else if(nums[i] == 1)
 
         }
     }
