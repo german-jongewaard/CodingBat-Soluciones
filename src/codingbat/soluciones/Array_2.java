@@ -238,6 +238,11 @@ public class Array_2 {
     public boolean has12(int[] nums){
         
         boolean oneSpotted = false;
+        for(int i = 0; i < nums.length; i++){
+            
+            if(oneSpotted)
+
+        }
     }
     
     
