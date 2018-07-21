@@ -251,6 +251,7 @@ public class Array_2 {
       return false;
     }
     
-    // Given an array of ints, return true if the array contains either 3 even or 3 odd values all next to each other.
+    // Given an array of ints, return true if the array contains either 3 even
+    // or 3 odd values all next to each other.
 
 }
