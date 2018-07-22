@@ -273,7 +273,7 @@ public class Array_2 {
                     return false;
                 }else
                 {
-                    
+                    count++;
                 }
             }
             
