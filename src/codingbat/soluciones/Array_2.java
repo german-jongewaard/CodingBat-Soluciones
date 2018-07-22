@@ -266,7 +266,7 @@ public class Array_2 {
     // exactly 3 times, and no 3's are next to each other.
     public boolean haveThree(int[] nums){
         int count = 0;
-        
+        boolean isPerv3 = false;
     }
     
     
