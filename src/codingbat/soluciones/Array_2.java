@@ -258,6 +258,7 @@ public class Array_2 {
             if(nums[i] % 2 == nums[i+1] % 2 && nums[i] % 2 == nums[i+2] % 2)
                 return true;
         }
+        return false;
     }
 
 }
