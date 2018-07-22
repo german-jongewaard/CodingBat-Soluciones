@@ -271,6 +271,9 @@ public class Array_2 {
             if(nums[i] == 3){
                 if(isPerv3){
                     return false;
+                }else
+                {
+                    
                 }
             }
             
