@@ -268,7 +268,9 @@ public class Array_2 {
         int count = 0;
         boolean isPerv3 = false;
         for(int i = 0 ; i < nums.length && count <= 3; i++){
-            if(nums[i] == 3)
+            if(nums[i] == 3){
+                
+            }
             
         }
     }
