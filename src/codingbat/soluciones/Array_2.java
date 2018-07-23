@@ -291,6 +291,7 @@ public class Array_2 {
                 count++;
             else{
                 if(state == 1)
+                    return false;
             }
         }
     }
