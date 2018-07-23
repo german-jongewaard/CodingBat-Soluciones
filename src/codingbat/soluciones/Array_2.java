@@ -277,12 +277,12 @@ public class Array_2 {
                     isPerv3 = true;
                 }
             }else
-                isPerv3 = false;
-            
+                isPerv3 = false;            
         }
         return (count == 3);
     }
     
+    // Given an array of ints, return true if every 2 that appears in the array is next to another 2.
     
     
     
