@@ -296,7 +296,9 @@ public class Array_2 {
                     count = 0;
             }
         }
+        return (count != 1);
     }
+    
     
     
     
