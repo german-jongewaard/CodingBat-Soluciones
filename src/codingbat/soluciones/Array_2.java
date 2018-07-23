@@ -305,6 +305,6 @@ public class Array_2 {
     //that n is in the range 0..nums.length inclusive. 
     public boolean sameEnds(int[] nums, int len)
     {
-    
+        int start = 0;
     
 }
