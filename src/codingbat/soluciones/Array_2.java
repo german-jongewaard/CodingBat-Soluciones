@@ -285,7 +285,7 @@ public class Array_2 {
     // Given an array of ints, return true if every 2 that appears in 
     // the array is next to another 2.
     public boolean twoTwo(int[] nums){
-        
+        int count = 0;
     }
     
     
