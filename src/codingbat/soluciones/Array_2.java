@@ -280,6 +280,7 @@ public class Array_2 {
                 isPerv3 = false;
             
         }
+        return (count == 3);
     }
     
     
