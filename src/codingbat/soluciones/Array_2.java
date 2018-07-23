@@ -292,6 +292,7 @@ public class Array_2 {
             else{
                 if(state == 1)
                     return false;
+                else
             }
         }
     }
