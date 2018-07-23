@@ -276,7 +276,8 @@ public class Array_2 {
                     count++;
                     isPerv3 = true;
                 }
-            }
+            }else
+                isPerv3 = false;
             
         }
     }
