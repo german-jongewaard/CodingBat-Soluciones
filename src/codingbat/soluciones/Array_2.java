@@ -286,6 +286,7 @@ public class Array_2 {
     // the array is next to another 2.
     public boolean twoTwo(int[] nums){
         int count = 0;
+        for(int i = 0; i < nums.length; i++)
     }
     
     
