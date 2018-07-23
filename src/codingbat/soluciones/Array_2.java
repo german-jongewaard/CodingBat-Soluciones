@@ -309,5 +309,6 @@ public class Array_2 {
         int end = nums.length-len;
         for(; len > 0; len--)
         {
-            if(nums[start] != nums[end])    
+            if(nums[start] != nums[end])  
+                return false;
 }
