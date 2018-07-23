@@ -306,5 +306,5 @@ public class Array_2 {
     public boolean sameEnds(int[] nums, int len)
     {
         int start = 0;
-    
+        int end = nums.length-len;
 }
