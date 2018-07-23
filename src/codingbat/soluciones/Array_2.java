@@ -290,7 +290,7 @@ public class Array_2 {
             if(nums[i] == 2)
                 count++;
             else{
-                
+                if(state == 1)
             }
         }
     }
