@@ -293,6 +293,7 @@ public class Array_2 {
                 if(state == 1)
                     return false;
                 else
+                    count = 0;
             }
         }
     }
