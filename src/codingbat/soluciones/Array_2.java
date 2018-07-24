@@ -317,4 +317,5 @@ public class Array_2 {
                 end++;
             }
         }    
+        return true;
 }
