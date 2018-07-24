@@ -312,4 +312,6 @@ public class Array_2 {
             if(nums[start] != nums[end])  
                 return false;
             else
+            {
+                start++;    
 }
