@@ -321,5 +321,6 @@ public class Array_2 {
     }
 
 
-    // Return true if the array contains, somewhere, three increasing adjacent numbers like .... 4, 5, 6, ... or 23, 24, 25. 
+    // Return true if the array contains, somewhere, three increasing adjacent
+    // numbers like .... 4, 5, 6, ... or 23, 24, 25. 
 }
