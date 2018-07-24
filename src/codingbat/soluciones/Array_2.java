@@ -327,6 +327,8 @@ public class Array_2 {
     {
         boolean prevUp = false;
         for(int i = 0; i < nums.length - 1; i++)
+        {
+            if(nums[i+1] - nums[i] == 1)    
     
     
 }
