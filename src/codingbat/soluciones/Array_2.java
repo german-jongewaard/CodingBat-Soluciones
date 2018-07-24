@@ -326,6 +326,7 @@ public class Array_2 {
     public boolean tripleUp(int[] nums)
     {
         boolean prevUp = false;
+        for(int i = 0; i < nums.length - 1; i++)
     
     
 }
