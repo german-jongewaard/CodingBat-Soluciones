@@ -314,4 +314,5 @@ public class Array_2 {
             else
             {
                 start++;    
+                end++;
 }
