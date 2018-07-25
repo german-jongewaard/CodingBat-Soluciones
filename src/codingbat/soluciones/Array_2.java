@@ -331,6 +331,8 @@ public class Array_2 {
             if(nums[i+1] - nums[i] == 1)  
             {
                 if(prevUp)    
+                    return true;
+                
     
     
 }
