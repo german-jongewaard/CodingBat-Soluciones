@@ -337,5 +337,7 @@ public class Array_2 {
             }
             else    
                 prevUp = false;
+        }
+        return false;    
     
 }
