@@ -334,6 +334,7 @@ public class Array_2 {
                     return true;
                 else
                     prevUp = true;
-    
+            }
+            else    
     
 }
