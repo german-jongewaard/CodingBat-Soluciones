@@ -339,5 +339,22 @@ public class Array_2 {
                 prevUp = false;
         }
         return false;    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
     
 }
