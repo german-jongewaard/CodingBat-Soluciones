@@ -336,5 +336,6 @@ public class Array_2 {
                     prevUp = true;
             }
             else    
+                prevUp = false;
     
 }
