@@ -362,7 +362,7 @@ public class Array_2 {
     public int[] tenRun(int[] nums)
     {
         int tenMode = -1;
-     
+        for(int i = 0; i < nums.length; i++)
     
     
     
