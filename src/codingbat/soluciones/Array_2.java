@@ -346,7 +346,9 @@ public class Array_2 {
     // or return a new array.
     public int[] shiftLeft(int[] nums)
     {
-            if(nums.length >= 2)
+        if(nums.length >= 2)
+        {
+            int temp = nums[0];    
     }
     
     
