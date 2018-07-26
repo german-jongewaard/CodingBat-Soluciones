@@ -361,7 +361,8 @@ public class Array_2 {
     //multiple of 10. So {2, 10, 3, 4, 20, 5} yields {2, 10, 10, 10, 20, 20}.
     public int[] tenRun(int[] nums)
     {
-    
+        int tenMode = -1;
+     
     
     
     
