@@ -348,7 +348,8 @@ public class Array_2 {
     {
         if(nums.length >= 2)
         {
-            int temp = nums[0];    
+            int temp = nums[0];
+            for(int i = 0; i < nums.length - 1; i++)
     }
     
     
