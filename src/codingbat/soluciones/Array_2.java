@@ -360,6 +360,7 @@ public class Array_2 {
     //following it to be that multiple of 10, until encountering another 
     //multiple of 10. So {2, 10, 3, 4, 20, 5} yields {2, 10, 10, 10, 20, 20}.
     public int[] tenRun(int[] nums)
+    {
     
     
     
