@@ -370,6 +370,7 @@ public class Array_2 {
                 nums[i] = tenMode;
         }
         return nums;
+    }
     
     
     
