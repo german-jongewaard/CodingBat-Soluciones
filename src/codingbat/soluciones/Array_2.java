@@ -368,6 +368,7 @@ public class Array_2 {
                 tenMode = nums[i];
             else if(tenMode != -1)
                 nums[i] = tenMode;
+        }    
     
     
     
