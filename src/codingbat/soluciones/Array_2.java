@@ -378,7 +378,7 @@ public class Array_2 {
     //that it is valid in java to create an array of length 0.
     public int[] pre4(int[] nums)
     {
-              
+         int p = 0;     
     
     
     
