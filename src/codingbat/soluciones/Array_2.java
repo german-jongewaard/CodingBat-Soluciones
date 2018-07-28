@@ -381,6 +381,7 @@ public class Array_2 {
          int p = 0;
          int[] arr;
          while(nums[p] != 4)
+             p++;
     
     
     
