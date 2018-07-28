@@ -385,6 +385,7 @@ public class Array_2 {
          arr = new int[p];
          for(int i = 0; i < p; i++)
              arr[i] = nums[i];
+         return arr;
     
     
     
