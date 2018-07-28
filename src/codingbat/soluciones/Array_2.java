@@ -384,6 +384,7 @@ public class Array_2 {
              p++;
          arr = new int[p];
          for(int i = 0; i < p; i++)
+             arr[i] = nums[i];
     
     
     
