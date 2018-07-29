@@ -398,6 +398,7 @@ public class Array_2 {
          int[] arr;
          while(nums[p] != 4)
              p--;
+         arr = new int[nums.length - 1 - p];
     
     
     
