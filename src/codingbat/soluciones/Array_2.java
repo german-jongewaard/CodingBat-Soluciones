@@ -395,6 +395,7 @@ public class Array_2 {
     public int[] post4(int[] nums)
     {
          int p = nums.length - 1;
+         int[] arr;
     
     
     
