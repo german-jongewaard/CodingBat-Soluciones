@@ -394,7 +394,7 @@ public class Array_2 {
     //that it is valid in java to create an array of length 0.
     public int[] post4(int[] nums)
     {
-         
+         int p = nums.length - 1;
     
     
     
