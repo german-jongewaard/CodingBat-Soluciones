@@ -402,6 +402,7 @@ public class Array_2 {
          for(int i = p + 1; i < nums.length; i++)
              arr[i - p - 1] = nums[i];
          return arr;
+    }     
     
     
     
