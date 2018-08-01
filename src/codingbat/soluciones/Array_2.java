@@ -417,7 +417,8 @@ public class Array_2 {
                      if(nums[i-1] != val && nums[i+1] != val)   
                          nums[i] = (nums[i-1] > nums[i+1]) ? nums[i-1] : nums[i+1];
                 }
-        }        
+        }
+        return nums;
     
     
     
