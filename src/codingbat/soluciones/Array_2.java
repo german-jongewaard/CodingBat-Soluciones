@@ -410,7 +410,7 @@ public class Array_2 {
     //is alone is replaced by whichever value to its left or right is larger.
     public int[] notAlone(int[] nums, int val)
     {
-    
+        for(int i = 1; i < nums.length - 1; i++)
     
     
     
