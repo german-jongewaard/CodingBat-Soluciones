@@ -413,6 +413,7 @@ public class Array_2 {
         for(int i = 1; i < nums.length - 1; i++)
         {
                 if(nums[i] == val)
+                {
     
     
     
