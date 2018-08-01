@@ -409,6 +409,7 @@ public class Array_2 {
     //version of the given array where every instance of the given value which
     //is alone is replaced by whichever value to its left or right is larger.
     public int[] notAlone(int[] nums, int val)
+    {
     
     
     
