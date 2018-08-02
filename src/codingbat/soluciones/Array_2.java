@@ -428,7 +428,7 @@ public class Array_2 {
     //given array or make a new array.
     public int[] zeroFront(int[] nums)
     {
-    
+        int zeroIndex = 0;
     
     
     
