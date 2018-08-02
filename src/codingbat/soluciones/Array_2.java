@@ -427,6 +427,7 @@ public class Array_2 {
     //So {1, 0, 0, 1} becomes {0 ,0, 1, 1}. You may modify and return the 
     //given array or make a new array.
     public int[] zeroFront(int[] nums)
+    {
     
     
     
