@@ -436,4 +436,5 @@ public class Array_2 {
                nums[i] = nums[zeroIndex]; 
                nums[zeroIndex] = 0;
                zeroIndex++;
+            }   
 }
