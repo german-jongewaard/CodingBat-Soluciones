@@ -438,4 +438,5 @@ public class Array_2 {
                zeroIndex++;
             }
         }    
+        return nums;
 }
