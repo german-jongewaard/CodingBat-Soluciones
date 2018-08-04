@@ -455,6 +455,7 @@ public class Array_2 {
             if(nums[i] != 10)
             {
                 arr[p] = nums[i];
+                p++;
 
 
 
