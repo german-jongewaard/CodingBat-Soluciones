@@ -453,7 +453,8 @@ public class Array_2 {
         for(int i = 0; i < nums.length; i++)
         {
             if(nums[i] != 10)
-                
+            {
+                arr[p] = nums[i];
 
 
 
