@@ -450,6 +450,7 @@ public class Array_2 {
     {
         int[] arr = new int[nums.length];
         int p = 0;
+        for(int i = 0; i < nums.length; i++)
 
 
 
