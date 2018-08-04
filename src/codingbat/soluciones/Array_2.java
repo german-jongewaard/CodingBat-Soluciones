@@ -456,6 +456,7 @@ public class Array_2 {
             {
                 arr[p] = nums[i];
                 p++;
+            }    
 
 
 
