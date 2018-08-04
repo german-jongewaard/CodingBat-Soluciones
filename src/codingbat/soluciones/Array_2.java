@@ -448,7 +448,7 @@ public class Array_2 {
     //and return the given array or make a new array.
     public int[] withoutTen(int[] nums)
     {
-
+        int[] arr = new int[nums.length];
 
 
 
