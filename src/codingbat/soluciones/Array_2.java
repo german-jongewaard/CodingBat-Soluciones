@@ -449,6 +449,7 @@ public class Array_2 {
     public int[] withoutTen(int[] nums)
     {
         int[] arr = new int[nums.length];
+        int p = 0;
 
 
 
