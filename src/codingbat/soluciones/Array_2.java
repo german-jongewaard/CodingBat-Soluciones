@@ -466,6 +466,7 @@ public class Array_2 {
     //is replaced by the largest odd value to the right of the zero in the 
     //array. If there is no odd value to the right of the zero, leave the 
     //zero as a zero.    
+    public int[] zeroMax(int[] nums)
 
 
     
