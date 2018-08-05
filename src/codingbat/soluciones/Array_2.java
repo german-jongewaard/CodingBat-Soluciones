@@ -468,7 +468,7 @@ public class Array_2 {
     //zero as a zero.    
     public int[] zeroMax(int[] nums)
     {
-
+        int max;
 
     
 }
