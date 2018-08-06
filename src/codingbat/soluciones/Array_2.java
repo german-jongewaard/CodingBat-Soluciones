@@ -469,6 +469,7 @@ public class Array_2 {
     public int[] zeroMax(int[] nums)
     {
         int max;
+        for(int i = 0; i < nums.length - 1; i++)
 
     
 }
