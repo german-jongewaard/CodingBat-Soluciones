@@ -473,7 +473,7 @@ public class Array_2 {
         {
             if(nums[i] == 0)
             {
-                 
+                max = 0;    
             
             
             
