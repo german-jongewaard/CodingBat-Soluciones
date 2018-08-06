@@ -477,6 +477,7 @@ public class Array_2 {
                 for(int k = i + 1; k < nums.length; k++)
                 {
                     if(nums[k] > max && nums[k] % 2 == 1)
+                        max = nums[k];
                 }
             
             
