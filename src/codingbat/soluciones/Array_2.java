@@ -473,7 +473,8 @@ public class Array_2 {
         {
             if(nums[i] == 0)
             {
-                max = 0;    
+                max = 0;
+                for(int k = i + 1; k < nums.length; k++)
             
             
             
