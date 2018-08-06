@@ -478,7 +478,7 @@ public class Array_2 {
                 {
                     if(nums[k] > max && nums[k] % 2 == 1)
                         max = nums[k];
-                }
+                
             
             
             
