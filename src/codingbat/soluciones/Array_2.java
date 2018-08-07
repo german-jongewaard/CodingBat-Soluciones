@@ -480,6 +480,7 @@ public class Array_2 {
                         max = nums[k];
                 }
                 if(max != 0)
+                    nums[i] = max;
             
             
             
