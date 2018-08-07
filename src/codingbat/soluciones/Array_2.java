@@ -504,7 +504,7 @@ public class Array_2 {
                 evenIndex++;
             }    
         }
-        
+        return nums;
         
         
         
