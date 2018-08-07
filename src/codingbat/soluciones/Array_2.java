@@ -500,6 +500,7 @@ public class Array_2 {
             {
                 temp = nums[i];
                 nums[i] = nums[evenIndex];
+                nums[evenIndex] = temp;
         
         
         
