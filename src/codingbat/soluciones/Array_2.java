@@ -502,6 +502,7 @@ public class Array_2 {
                 nums[i] = nums[evenIndex];
                 nums[evenIndex] = temp;
                 evenIndex++;
+            }    
         
         
         
