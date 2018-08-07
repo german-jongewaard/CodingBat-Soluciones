@@ -481,7 +481,8 @@ public class Array_2 {
                 }
                 if(max != 0)
                     nums[i] = max;
-            }    
+            }
+        }    
             
             
             
