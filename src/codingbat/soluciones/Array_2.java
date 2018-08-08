@@ -493,6 +493,6 @@ public class Array_2 {
     public int[] evenOdd(int[] nums)
     {
         int temp;
-            
+        int evenIndex = 0;    
     
 }
