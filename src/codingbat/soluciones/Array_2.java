@@ -499,6 +499,7 @@ public class Array_2 {
             if(nums[i] % 2 == 0)
             {
                 temp = nums[i];
+                nums[i] = nums[evenIndex];
         
         
         
