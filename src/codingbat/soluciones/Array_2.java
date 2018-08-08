@@ -492,7 +492,7 @@ public class Array_2 {
     //You may modify and return the given array, or make a new array.
     public int[] evenOdd(int[] nums)
     {
-            
+        int temp;
             
     
 }
