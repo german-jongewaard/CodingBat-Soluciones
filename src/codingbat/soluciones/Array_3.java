@@ -17,7 +17,7 @@ public class Array_3 {
         int j;
         for(int i = 0; i < nums.length; i++)
         {
-    
+            for(j = nums.length - 1; nums[i] != nums[j]; j--);
     
     
     
