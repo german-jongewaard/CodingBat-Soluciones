@@ -11,6 +11,7 @@ public class Array_3 {
     //the two inclusive. A single value has a span of 1. Returns the largest 
     //span found in the given array. (Efficiency is not a priority.)
     public int maxSpan(int[] nums) 
+    {
     
     
     
