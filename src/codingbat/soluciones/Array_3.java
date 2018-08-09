@@ -12,7 +12,7 @@ public class Array_3 {
     //span found in the given array. (Efficiency is not a priority.)
     public int maxSpan(int[] nums) 
     {
-    
+        int maxSpan = 0;
     
     
     
