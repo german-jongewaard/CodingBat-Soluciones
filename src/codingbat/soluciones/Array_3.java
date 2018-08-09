@@ -13,7 +13,7 @@ public class Array_3 {
     public int maxSpan(int[] nums) 
     {
         int maxSpan = 0;
-    
+        int span;
     
     
     
