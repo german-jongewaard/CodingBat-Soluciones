@@ -16,6 +16,7 @@ public class Array_3 {
         int span;
         int j;
         for(int i = 0; i < nums.length; i++)
+        {
     
     
     
