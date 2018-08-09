@@ -15,7 +15,7 @@ public class Array_3 {
         int maxSpan = 0;
         int span;
         int j;
-    
+        for(int i = 0; i < nums.length; i++)
     
     
     
