@@ -20,6 +20,7 @@ public class Array_3 {
             for(j = nums.length - 1; nums[i] != nums[j]; j--);
                 span = 1 + j - i;
                 if(span > maxSpan)
+                    maxSpan = span;
     
     
     
