@@ -23,6 +23,7 @@ public class Array_3 {
                     maxSpan = span;
         }
         return maxSpan;
+    }    
     
     
     
