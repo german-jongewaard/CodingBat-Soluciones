@@ -18,6 +18,7 @@ public class Array_3 {
         for(int i = 0; i < nums.length; i++)
         {
             for(j = nums.length - 1; nums[i] != nums[j]; j--);
+                span = 1 + j - i;
     
     
     
