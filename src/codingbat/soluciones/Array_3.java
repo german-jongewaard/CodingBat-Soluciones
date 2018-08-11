@@ -33,6 +33,7 @@ public class Array_3 {
     public int[] fix34(int[] nums) 
     {
         int j = 1;
+        for(int i = 0; i < nums.length - 1; i++)
     
     
     
