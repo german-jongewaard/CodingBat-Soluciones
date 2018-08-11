@@ -31,6 +31,7 @@ public class Array_3 {
     //contains the same number of 3's and 4's, every 3 has a number after it 
     //that is not a 3 or 4, and a 3 appears in the array before any 4.     
     public int[] fix34(int[] nums) 
+    {
     
     
     
