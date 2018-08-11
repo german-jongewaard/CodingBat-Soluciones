@@ -35,6 +35,8 @@ public class Array_3 {
         int j = 1;
         for(int i = 0; i < nums.length - 1; i++)
         {
+            if(nums[i] == 3 && nums[i+1] != 4)
+        }
     
     
     
