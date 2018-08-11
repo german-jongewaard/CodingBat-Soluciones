@@ -32,7 +32,7 @@ public class Array_3 {
     //that is not a 3 or 4, and a 3 appears in the array before any 4.     
     public int[] fix34(int[] nums) 
     {
-    
+        int j = 1;
     
     
     
