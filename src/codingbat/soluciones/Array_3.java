@@ -39,6 +39,7 @@ public class Array_3 {
                 for(; nums[j] != 4; j++);
                 nums[j] = nums[i+1];
                 nums[i+1] = 4;
+        }        
          
     
     
