@@ -41,7 +41,8 @@ public class Array_3 {
                 nums[i+1] = 4;
             }    
         }        
-        return nums; 
+        return nums;
+    }    
     
     
     
