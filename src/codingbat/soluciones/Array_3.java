@@ -51,7 +51,7 @@ public class Array_3 {
     //same number of 4's and 5's, and every 4 has a number after it that is 
     //not a 4. In this version, 5's may appear anywhere in the original array.    
     public int[] fix45(int[] nums)
-            
+    { 
             
             
             
