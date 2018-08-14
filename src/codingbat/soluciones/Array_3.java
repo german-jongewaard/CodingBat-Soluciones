@@ -57,7 +57,7 @@ public class Array_3 {
          {
              if(nums[i] == 4 && nums[i+1] != 5)
              {
-            
+                 for(; !(nums[j] == 5 && (j == 0 || j > 0 && nums[j-1] != 4)); j++);
             
             
             
