@@ -52,7 +52,8 @@ public class Array_3 {
     //not a 4. In this version, 5's may appear anywhere in the original array.    
     public int[] fix45(int[] nums)
     { 
-         int j = 0;   
+         int j = 0;
+         for(int i = 0; i < nums.length - 1; i++)
             
             
             
