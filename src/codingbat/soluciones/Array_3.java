@@ -56,6 +56,7 @@ public class Array_3 {
          for(int i = 0; i < nums.length - 1; i++)
          {
              if(nums[i] == 4 && nums[i+1] != 5)
+             {
             
             
             
