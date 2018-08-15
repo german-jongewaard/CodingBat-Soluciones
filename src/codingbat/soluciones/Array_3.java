@@ -61,7 +61,7 @@ public class Array_3 {
                        nums[j] = nums[i+1];
                        nums[i+1] = 5;
             }
-            
+         }    
             
             
             
