@@ -70,7 +70,7 @@ public class Array_3 {
     //the numbers on the other side.
     public boolean canBalance(int[] nums)           
     {
-            
+       int left = 0;     
             
             
             
