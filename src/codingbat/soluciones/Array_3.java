@@ -101,6 +101,7 @@ public class Array_3 {
                    notFound = false;
            }
            if(notFound)
+               return false;
     
     
     
