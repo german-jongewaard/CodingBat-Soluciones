@@ -77,7 +77,7 @@ public class Array_3 {
                 right = nums[nums.length-1];
             for(int i = nums.length - 2; i > 0; i--)
             {
-            
+                if(left == right)
             
             
     
