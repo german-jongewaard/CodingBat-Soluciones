@@ -72,6 +72,7 @@ public class Array_3 {
     {
         int left = 0;     
         int right;    
+        for(int i = 0; i < nums.length - 1; i++)
             
             
             
