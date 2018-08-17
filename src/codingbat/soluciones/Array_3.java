@@ -83,6 +83,7 @@ public class Array_3 {
                 right += nums[i];
             }
             return (left == right);
+    }        
             
             
     
