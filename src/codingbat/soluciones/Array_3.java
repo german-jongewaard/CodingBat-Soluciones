@@ -80,6 +80,7 @@ public class Array_3 {
                 if(left == right)
                     return true;
                 left -= nums[i];
+                right += nums[i];
             
             
     
