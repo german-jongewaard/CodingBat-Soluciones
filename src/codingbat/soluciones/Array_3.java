@@ -81,6 +81,7 @@ public class Array_3 {
                     return true;
                 left -= nums[i];
                 right += nums[i];
+            }    
             
             
     
