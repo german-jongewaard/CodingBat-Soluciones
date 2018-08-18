@@ -100,6 +100,7 @@ public class Array_3 {
                if(inner[inI] == outer[outI])
                    notFound = false;
            }
+           if(notFound)
     
     
     
