@@ -95,7 +95,7 @@ public class Array_3 {
        for(int inI = 0, outI = 0; inI < inner.length; inI++)
        {
            notFound = true;
-    
+           for(; outI < outer.length && notFound; outI++)
     
     
     
