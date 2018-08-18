@@ -90,6 +90,7 @@ public class Array_3 {
     //solution makes only a single "linear" pass of both arrays, taking 
     //advantage of the fact that both arrays are already in sorted order.
     public boolean linearIn(int[] outer, int[] inner)
+    {
             
     
     
