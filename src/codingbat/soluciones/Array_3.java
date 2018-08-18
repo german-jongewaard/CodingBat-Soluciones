@@ -110,7 +110,12 @@ public class Array_3 {
     //here for n=3 : {0, 0, 1,    0, 2, 1,    3, 2, 1} (spaces added to show the 3 groups).
     public int[] squareUp(int n)
     {
-    
+        int[] arr = new int[n*n];
+        
+        
+        
+        
+        
     
     
     
