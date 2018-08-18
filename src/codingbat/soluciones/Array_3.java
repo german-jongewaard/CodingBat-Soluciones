@@ -114,7 +114,7 @@ public class Array_3 {
         int p;
         for(int i = 1; i <= n; i++)
         {
-             
+             p = n * i - 1;
         
     
     
