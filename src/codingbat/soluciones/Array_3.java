@@ -113,8 +113,8 @@ public class Array_3 {
         int[] arr = new int[n*n];
         int p;
         for(int i = 1; i <= n; i++)
-        
-        
+        {
+             
         
     
     
