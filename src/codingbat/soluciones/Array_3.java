@@ -91,7 +91,8 @@ public class Array_3 {
     //advantage of the fact that both arrays are already in sorted order.
     public boolean linearIn(int[] outer, int[] inner)
     {
-       boolean notFound;     
+       boolean notFound;
+       for(int inI = 0, outI = 0; inI < inner.length; inI++)
     
     
     
