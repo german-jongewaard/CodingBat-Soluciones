@@ -97,7 +97,7 @@ public class Array_3 {
            notFound = true;
            for(; outI < outer.length && notFound; outI++)
            {
-    
+               if(inner[inI] == outer[outI])
     
     
     
