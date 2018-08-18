@@ -111,7 +111,7 @@ public class Array_3 {
     public int[] squareUp(int n)
     {
         int[] arr = new int[n*n];
-        
+        int p;
         
         
         
