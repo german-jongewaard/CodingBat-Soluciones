@@ -127,6 +127,8 @@ public class Array_3 {
     //to exactly n*(n + 1)/2.
     public int[] seriesUp(int n)
     {
+        
+    }
 
 
 
