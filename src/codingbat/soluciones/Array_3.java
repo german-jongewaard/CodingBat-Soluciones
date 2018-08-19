@@ -126,6 +126,7 @@ public class Array_3 {
     //length of the array will be 1 + 2 + 3 ... + n, which is known to sum 
     //to exactly n*(n + 1)/2.
     public int[] seriesUp(int n)
+    {
 
 
 
